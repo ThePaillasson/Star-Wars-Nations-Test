@@ -5,7 +5,6 @@
 		"adjective": ["Imperial"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "New Order",
 		
 		"startIntroPart1": "The Dark Side of the Force is a pathway to many abilities some consider to be unnatural.",
 		"startIntroPart2": "Did you ever hear the tragedy off Darth Plagueis the Wise?",
@@ -100,7 +99,6 @@
 		"adjective": ["Rakatan"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Dark side of the Force",
 		
 		"startIntroPart1": "The Rakata are a pestilence upon the galaxy that, to their shame, the Kwa, unleashed.",
 		
@@ -189,7 +187,6 @@
 		"adjective": ["Jedi"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Cultural",
-		"favoredReligion": "Light side of the Force",
 		
 		"startIntroPart1": "Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not.",
 		"startIntroPart2": "For my ally is the Force, and a powerful ally it is. Life creates it, makes it grow. Its energy surrounds us and binds us. Luminous beings are we, not this crude matter. You must feel the Force around you; here, between you, me, the tree, the rock, everywhere, yes. Even between the land and the ship.",
@@ -296,7 +293,6 @@
 		"adjective": ["Hutt"],
 		"startBias": ["Marsh"],
 		"preferredVictoryType": "Diplomatic",
-		"favoredReligion": "B'omarr Order",
 		
 		"startIntroPart1": "Rejoice, wretched creatures. Your planet is now the property of the glorious Hutt Cartel.",
 		"startIntroPart2": "We represent our people. Their honor. Their power. We are the Hutt Council.",
@@ -483,7 +479,6 @@
 		"adjective": ["Mandalorian"],
 		"startBias": ["Avoid Tundra"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Mandalorian Religion",
 
 		
 		"startIntroPart1": "Here's why you can't exterminate us, aruetii. We're not huddled in one place—we span the galaxy. We need no lords or leaders—so you can't destroy our command. We can live without technology—so we can fight with our bare hands. We have no species or bloodline—so we can rebuild our ranks with others who want to join us.",
@@ -566,7 +561,6 @@
 		"adjective": ["Sith"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Dark side of the Force",
 
 		
 		"startIntroPart1": "Evil is a word used by the ignorant and the weak. The Dark Side is about survival. It's about unleashing your inner power. It glorifies the strength of the individual.",
@@ -853,7 +847,6 @@
 		"adjective": ["Yuuzhan Vong"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
-		"favoredReligion": "Yun-Yammka and Yun-Harla",
 		
 		"startIntroPart1": "This is not about your little planet. We will take your whole galaxy. We will destroy your machines; they are an abomination.",
 		"startIntroPart2": "We will share our ways, we will share our beliefs. We will share pain, like us, you will come to embrace it.",
@@ -1054,8 +1047,7 @@
 		"leaderName": "Valkorion the Immortal Emperor",
 		"adjective": ["Zakuulan"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Domination",
-		"favoredReligion": "Old Six Gods",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Look around you. Zakuul is poised to become the greatest civilization in the history of the galaxy.",
 		"startIntroPart2": "I have forged this empire to surmount all of my previous works. To span eternity.",
@@ -1099,7 +1091,7 @@
 		"leaderName": "Mitth'raw'nuruodo",
 		"adjective": ["Chiss"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "The Chiss must be approached from a position of strength and respect.",
 		"startIntroPart2": "One must have strength, for the Chiss will deal only with those capable of keeping their promises. One must have respect, for the Chiss must believe that those promises will be kept.",
