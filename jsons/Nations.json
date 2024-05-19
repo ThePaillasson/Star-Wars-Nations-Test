@@ -1314,7 +1314,7 @@
 		"name": "Hapes Consortium",
 		"leaderName": "Tenel Ka Ta'a Chume Djo",
 		"adjective": ["Hapan"],
-		"startBias": ["Tundra"],
+		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "The Hapes Cluster was originally settled by pirates, a group called the Lorell Raiders.",
