@@ -1451,4 +1451,41 @@
 			"Rinagom",
 		],
 	},
+	{
+		"name": "Trade Federation of Planets",
+		"leaderName": "Viceroy Nute Gunray",
+		"adjective": ["Trade Federation"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "I believe in the idea of the Trade Federation. When the Republic fails to recognize your homeworld as anything but an asset in shipping and commerce, you become a commodity. And a statistic. I'll not let my life be a line item in a shipping manifest.",
+		"startIntroPart2": "With the Trade Federation, Neimoidians finally have a voice. History shows the Republic barely acknowledged our existence until the Trade Federation.",
+		"declaringWar": "You had better live through this! I want my money!",
+		"attacked": "You have to understand what these sectors were like before the Trade Federation arrived. And if it were made to leave? Then there'd be no law at all.",
+		"defeated": "The war is over! Lord Sidious promised us peace! We only want...",
+		"introduction": "I am a man of great wealth, and I can be very generous to my allies.",
+		
+		"neutralHello": "I am a man of great wealth, and I can be very generous to my allies.",
+		"neutralLetsHearIt": ["I am a man of great wealth, and I can be very generous to my allies."],
+		"neutralNo": ["What? What did you say?"],
+		"neutralYes": ["I am a man of great wealth, and I can be very generous to my allies."],
+
+		"hateHello": "This is getting out of hand! Now, there are two of them!	",
+		"hateLetsHearIt": ["This is getting out of hand! Now, there are two of them!"],
+		"hateNo": ["This is outrageous! I object to your statements."],
+		"hateYes": ["I never risk my own skin if I don't have to."],
+		
+		"afterPeace": "I never risk my own skin if I don't have to.",
+		"tradeRequest": "You will sign it, or you will suffer.",
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,0],
+		"cities": [
+			"Cato Neimoidia",
+			"Cularin",
+			"Chrona",
+			"Akiva",
+			"Charros",
+			"Caarimon",
+		],
+	},
 ]
