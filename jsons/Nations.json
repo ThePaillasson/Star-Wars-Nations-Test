@@ -1748,7 +1748,7 @@
 		"name": "Zann Consortium",
 		"leaderName": "Tyber Zann",
 		"adjective": ["Zann"],
-		"startBias": ["Hill"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "I am Tyber Zann. Corruption is my weapon. And while the galaxy is distracted by civil war, I will strike.",
