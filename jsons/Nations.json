@@ -637,7 +637,7 @@
 		"name": "Mandalorians",
 		"leaderName": "Mandalore the Ultimate",
 		"adjective": ["Mandalorian"],
-		"startBias": ["Avoid Tundra"],
+		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 
 		
@@ -1455,7 +1455,7 @@
 		"name": "Trade Federation of Planets",
 		"leaderName": "Nute Gunray",
 		"adjective": ["Trade Federation"],
-		"startBias": ["Hills"],
+		"startBias": ["Hill"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "I believe in the idea of the Trade Federation. When the Republic fails to recognize your homeworld as anything but an asset in shipping and commerce, you become a commodity. And a statistic. I'll not let my life be a line item in a shipping manifest.",
@@ -1559,7 +1559,7 @@
 		"name": "Black Sun",
 		"leaderName": "Prince Xizor",
 		"adjective": ["Black Sun"],
-		"startBias": ["Avoid Grassland"],
+		"startBias": ["Avoid [Grassland]"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "It is a vast criminal syndicate…its influence felt on every planet from the Core Worlds to the Outer Rim. Black Sun has existed for hundreds of years, and embedded itself in the very fiber of the galaxy.",
