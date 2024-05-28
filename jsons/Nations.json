@@ -1897,4 +1897,40 @@
 			"Lonatro",
 		],
 	},
+	{
+		"name": "Kolkpravis",
+		"leaderName": "Qymaen jai Sheelal",
+		"adjective": ["Kaleesh"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Jedi! You are surrounded, your army is decimated. Make peace with the Force now…for this is your final hour. But know that I, General Grievous, am not completely without mercy. I will grant you a warrior's death. Prepare!",
+		"declaringWar": "Your skills are impressive. Perhaps a match for my own.",
+		"attacked": "You think you can defeat me? You’re nothing.",
+		"defeated": "Time to abandon ship.",
+		"introduction": "I am Qymaen jai Sheelal, warlord of the Kaleesh.",
+		
+		"neutralHello": "I expected someone with your reputation to be a little... older.",
+		"neutralLetsHearIt": ["I expected someone with your reputation to be a little... older."],
+		"neutralNo": ["I wield great power, Jedi fool!"],
+		"neutralYes": ["I expected someone with your reputation to be a little... older."],
+
+		"hateHello": "You are a bold one.",
+		"hateLetsHearIt": ["You are a bold one."],
+		"hateNo": ["Your lightsabers will make a fine addition to my collection!"],
+		"hateYes": ["That wasn’t much of a rescue."],
+		
+		"afterPeace": "Army or not, you must realize, you are doomed.",
+		"tradeRequest": "You are a bold one.",
+		"outerColor": [224, 205, 169],
+		"innerColor": [0,0,0],
+		"cities": [
+			"Kalee",
+			"Guiteica",
+			"Huk",
+			"Abbaji",
+			"Tovarskl",
+			"Vassek",
+		],
+	},
 ]
