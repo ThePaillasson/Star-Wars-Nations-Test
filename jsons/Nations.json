@@ -1638,7 +1638,7 @@
 		"name": "InterGalactic Banking Clan",
 		"leaderName": "San Hill",
 		"adjective": ["InterGalactic Banking Clan"],
-		"startBias": ["Coast"],
+		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "May there be prosperity and stability in all our lands! May our people be free and safe! Long live the banks!",
@@ -1901,7 +1901,7 @@
 		"name": "Kolkpravis",
 		"leaderName": "Qymaen jai Sheelal",
 		"adjective": ["Kaleesh"],
-		"startBias": ["Plains"],
+		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Jedi! You are surrounded, your army is decimated. Make peace with the Force now…for this is your final hour. But know that I, General Grievous, am not completely without mercy. I will grant you a warrior's death. Prepare!",
@@ -1912,7 +1912,7 @@
 		
 		"neutralHello": "I expected someone with your reputation to be a little... older.",
 		"neutralLetsHearIt": ["I expected someone with your reputation to be a little... older."],
-		"neutralNo": ["I wield great power, Jedi fool!"],
+		"neutralNo": ["I wield great power, fool!"],
 		"neutralYes": ["I expected someone with your reputation to be a little... older."],
 
 		"hateHello": "You are a bold one.",
@@ -1931,6 +1931,42 @@
 			"Abbaji",
 			"Tovarskl",
 			"Vassek",
+			"Utapau",
+		],
+	},
+	{
+		"name": "Spiverelda",
+		"leaderName": "Admiral Trench",
+		"adjective": ["Aqualish"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Turn back now. Retreat while you can, for I am your doom.",
+		"declaringWar": "My personal strategy for victory is through total annihilation.",
+		"attacked": "Turn back now. Retreat while you can, for I am your doom.",
+		"defeated": "Your nobility--",
+		"introduction": "I am the Admiral Trench. My personal strategy for victory is through total annihilation.",
+		
+		"neutralHello": "My personal strategy for victory is through total annihilation.",
+		"neutralLetsHearIt": ["My personal strategy for victory is through total annihilation."],
+		"neutralNo": ["The Aqualish people are not fond of questions."],
+		"neutralYes": ["I have won this round."],
+
+		"hateHello": "I smell fear, and it smells good.",
+		"hateLetsHearIt": ["I smell fear, and it smells good."],
+		"hateNo": ["The Aqualish people are not fond of questions."],
+		"hateYes": ["I have won this round."],
+		
+		"afterPeace": "Our orders are to blockade, not chase. I have won this round.",
+		"tradeRequest": "You are a bold one.",
+		"outerColor": [150,176,173],
+		"innerColor": [243,253,252],
+		"cities": [
+			"Ando",
+			"Andosha",
+			"Arbular",
+			"Horos",
+			"Secundus Ando",
 		],
 	},
 ]
