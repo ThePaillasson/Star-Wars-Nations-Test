@@ -1887,7 +1887,7 @@
 		"afterPeace": "Purple shift.",
 		"tradeRequest": "Purple vertex.",
 		"outerColor": [86, 130, 3],
-		"innerColor": [118, 111, 100],
+		"innerColor": [0,0,0],
 		"cities": [
 			"Gree",
 			"Asation",
@@ -1963,6 +1963,7 @@
 		"innerColor": [243,253,252],
 		"cities": [
 			"Ando",
+			"Andando",
 			"Andosha",
 			"Arbular",
 			"Horos",
@@ -1994,8 +1995,8 @@
 		
 		"afterPeace": "The Kind seek only to live in harmony with the Song of the Universe.",
 		"tradeRequest": "The Kind seek only to live in harmony with the Song of the Universe.",
-		"outerColor": [179, 103, 0],
-		"innerColor": [121, 137, 51],
+		"outerColor": [121, 137, 51],
+		"innerColor": [179, 103, 0],
 		"cities": [
 			"Yoggoy",
 			"Gorog",
