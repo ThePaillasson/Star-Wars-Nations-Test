@@ -27,6 +27,9 @@
 		"afterPeace": "Your feeble skills are no match for the power of the dark side.",
 		"tradeRequest": "And if I ever need your services again, I will not hesitate to clone you.",
 
+		"uniqueName": "New Order",
+	        "uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [20] turns.","Resting point for Influence with City-States is increased by [10]"],
+
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": [
@@ -280,6 +283,9 @@
 		"afterPeace": "Surely you know the glory of the Builders and our Infinite Empire. The fury of our weapons surpass even my own might.",
 		"tradeRequest": "Surely you know the glory of the Builders and our Infinite Empire. The fury of our weapons surpass even my own might.",
 
+		"uniqueName": "Slave world",
+	        "uniques": ["[+1 Production] from every specialist [in all cities]", "[+1 Science] from every [Strategic resource]"],
+
 		"outerColor": [158,25,25],
 		"innerColor": [0,0,0],
 		"cities": [
@@ -368,6 +374,9 @@
 		
 		"afterPeace": "Great warrior. Wars not make one great.",
 		"tradeRequest": "Your path you must decide.",
+
+		"uniqueName": "There is no death, there is the Force.",
+	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","[Great Prophet] is earned [50]% faster"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [83,40,20],
@@ -475,6 +484,9 @@
 		"afterPeace": "Ee ya ba ma dookie massa eek bon chee ko pa na green na meeto do buny dunko la cho ya.",
 		"tradeRequest": "Niuta, be cotma.",
 
+		"uniqueName": "Slave trade",
+	        "uniques": ["[+1 Production] from every [Mine]"],
+
 		"outerColor": [208,177,128],
 		"innerColor": [143,17,29],
 		"cities": [
@@ -560,6 +572,9 @@
 		
 		"afterPeace": "You recognize my superiority.",
 		"tradeRequest": "I have an offer you can't refuse.",
+		
+                "uniqueName": "Cronese Sweeps",
+		"uniques": ["[50]% Strength <vs cities>","[-20]% maintenance on road & railroads",],
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
@@ -658,6 +673,9 @@
 		"hateLetsHearIt": ["I'm someone you don't want to get on the bad side of."],
 		"hateNo": ["A warrior knows nothing of surrender."],
 		"hateYes": ["I think I need something more than killing and fighting in my life."],
+
+		"uniqueName": "Way of the Mandalore",
+		"uniques": ["Earn [20]% of killed [Military] unit's [Strength] as [Culture]","Earn [20]% of killed [Military] unit's [Strength] as [Happiness]","[+50]% Production when constructing [All] units [in all cities]"],
 		
 		"afterPeace": "I think I need something more than killing and fighting in my life. I need a purpose or something like that.",
 		"tradeRequest": "Politics is simply the continuation of war by other means.",
@@ -725,7 +743,7 @@
 		
 		"startIntroPart1": "Evil is a word used by the ignorant and the weak. The Dark Side is about survival. It's about unleashing your inner power. It glorifies the strength of the individual.",
 		
-		"declaringWar": "Peace is a lie. There is only Passion. Through Passion, I gain Strength. Through Strength, I gain Power.",
+		"declaringWar": "Peace is a lie. There is only Passion. Through Passion, I gain Strength. Through Strength, I gain Power. Through Power, I gain Victory. Through Victory my chains are Broken. The Force shall free me.",
 		"attacked": "There will be no truce. There will be no surrender. I don't care how many die. An example will be made of the deserters.",
 		"defeated": "Life… death… the one is the same as the other.",
 		"introduction": "The galaxy writhes in chaos and disorder. It requires a man of vision. I am that man of vision. I am the new Emperor.",
@@ -742,6 +760,9 @@
 		
 		"afterPeace": "I am not a man of words. But I respect the power of words, for that is what transformed me. The words of the Sith Code...",
 		"tradeRequest": "The strong rule; the weak are meant to serve. This is the way it must be.",
+
+		"uniqueName": "Revenge of the Sith",
+	        "uniques": ["[+15]% Strength <for [All] units> <when below [5] Happiness>"],
 
 		"outerColor": [0,0,0],
 		"innerColor": [158,25,25],
