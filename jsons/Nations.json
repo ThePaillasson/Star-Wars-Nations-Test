@@ -675,7 +675,7 @@
 		"hateYes": ["I think I need something more than killing and fighting in my life."],
 
 		"uniqueName": "Way of the Mandalore",
-		"uniques": ["Earn [20]% of killed [Military] unit's [Strength] as [Culture]","Earn [20]% of killed [Military] unit's [Strength] as [Happiness]","[+50]% Production when constructing [All] units [in all cities]"],
+		"uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+50]% Production when constructing [All] units [in all cities]","City-State territory always counts as friendly territory"],
 		
 		"afterPeace": "I think I need something more than killing and fighting in my life. I need a purpose or something like that.",
 		"tradeRequest": "Politics is simply the continuation of war by other means.",
@@ -762,7 +762,7 @@
 		"tradeRequest": "The strong rule; the weak are meant to serve. This is the way it must be.",
 
 		"uniqueName": "Revenge of the Sith",
-	        "uniques": ["[+15]% Strength <for [All] units> <when below [5] Happiness>"],
+	        "uniques": ["[+15]% Strength <for [All] units> <when below [5] Happiness>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
 
 		"outerColor": [0,0,0],
 		"innerColor": [158,25,25],
