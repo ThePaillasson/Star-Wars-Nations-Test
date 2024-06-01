@@ -376,7 +376,7 @@
 		"tradeRequest": "Your path you must decide.",
 
 		"uniqueName": "There is no death, there is the Force.",
-	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","[Great Prophet] is earned [50]% faster"],
+	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","[Great Person] is earned [50]% faster"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [83,40,20],
@@ -485,7 +485,7 @@
 		"tradeRequest": "Niuta, be cotma.",
 
 		"uniqueName": "Slave trade",
-	        "uniques": ["[+1 Production] from every [Mine]"],
+	        "uniques": ["[+1 Production] from all [Production] buildings","[+1 Gold] from all [Gold] buildings"],
 
 		"outerColor": [208,177,128],
 		"innerColor": [143,17,29],
