@@ -376,7 +376,7 @@
 		"tradeRequest": "Your path you must decide.",
 
 		"uniqueName": "There is no death, there is the Force.",
-	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","When defeating a [Land] unit, earn [25] Faith and recruit it <with [50]% chance>"],
+	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","When defeating a [Land] unit, earn [0] Gold and recruit it <with [50]% chance>"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [83,40,20],
@@ -582,7 +582,7 @@
 			"Argai",
 			"Chandaar",
 			"Cadinth",
-			"Raxus Prime",
+			"Raxus",
 			"Desevro",
 			"Thanium",
 			"Yutusk",
@@ -834,7 +834,7 @@
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,85],
 		"cities": [
-			"Raxus Secundus",
+			"Raxus",
 			"Geonosis",
 			"Serenno",
 			"Cato Neimodia",
