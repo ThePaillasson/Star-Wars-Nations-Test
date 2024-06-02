@@ -574,7 +574,7 @@
 		"tradeRequest": "I have an offer you can't refuse.",
 		
                 "uniqueName": "Cronese Sweeps",
-		"uniques": ["[50]% Strength <vs cities>","[-20]% maintenance on road & railroads",],
+		"uniques": ["[50]% Strength <vs cities>","[-20]% maintenance on road & railroads"],
 
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
