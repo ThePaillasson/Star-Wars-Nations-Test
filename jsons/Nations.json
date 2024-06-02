@@ -375,8 +375,8 @@
 		"afterPeace": "Great warrior. Wars not make one great.",
 		"tradeRequest": "Your path you must decide.",
 
-		"uniqueName": "There is no death, there is the Force.",
-	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","When defeating a [Land] unit, earn [0] Gold and recruit it <with [50]% chance>"],
+		"uniqueName": "There is no death, there is the Force",
+	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","When defeating a [Land] unit, earn [0] Gold and recruit it <with [20]% chance>"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [83,40,20],
@@ -389,7 +389,7 @@
 			"Rhinnal",
 			"Phemis",
 			"Haashimut",
-			"Falang Minor",
+			"Falang",
 			"Ilum",
 			"Xenxiar",
 			"Phateem",
@@ -523,7 +523,7 @@
 			"Kessel",
 			"Delacrix",
 			"Affavan",
-			"Parcovey Minor",
+			"Parcovey",
 			"Imram",
 			"Ylesia",
 			"Tatooine",
@@ -831,6 +831,9 @@
 		"afterPeace": "I don't condone your methods, but you had every right to protect your planet.",
 		"tradeRequest": "I am a man of great wealth, and I can be very generous to my allies.",
 
+		"uniqueName": "Droid Army",
+	        "uniques": ["Damage is ignored when determining unit Strength <for [All] units>","[+1 Gold] from each Trade Route","[20] Unit Supply"],
+
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,85],
 		"cities": [
@@ -902,6 +905,9 @@
 		"afterPeace": "War is not a state of being. It is meant to be a temporary chaos between periods of peace. Some want it to be the course of things: a default fact of existence. But I will not let that be so.",
 		"tradeRequest": "This is Mon Mothma. I have an assignment for you. The Rebellion needs you and we don't have much time. We must work together.",
 
+		"uniqueName": "A New Hope",
+	        "uniques": ["[+20]% Strength <when fighting units from a Civilization with more Cities than you>","[+1 Food] from all [Culture] buildings","[+50]% Golden Age length"],
+
 		"outerColor": [255,255,255],
 		"innerColor": [213,0,0],
 		"cities": [
@@ -954,7 +960,7 @@
 			"Horox",
 			"Talus",
 			"Reginard",
-			"Cassidode VI",
+			"Cassidode",
 			"Thila",
 			"Mako-Ta",
 			"Fandélane",
@@ -1048,6 +1054,9 @@
 		
 		"afterPeace": "Welcome my home. You see my home, I be-bel-believe. You come me there. I show you splendor Yuuzhan Vong.",
 		"tradeRequest": "Welcome my home. You see my home, I be-bel-believe. You come me there. I show you splendor Yuuzhan Vong.",
+
+		"uniqueName": "Vongforming",
+	        "uniques": ["[+1 Food] from all [Gold] buildings","[+1 Food] from all [Production] buildings","[50]% Strength <vs cities>","City-State territory always counts as friendly territory"],
 
 		"outerColor": [0,0,0],
 		"innerColor": [192,98,98],
@@ -1250,6 +1259,9 @@
 		"afterPeace": "These petty conflicts mean nothing. The concerns of this galaxy are meaningless. Once I ascend, all will be tranquil in this galaxy. It is my promise to you.",
 		"tradeRequest": "You are mine. Servants. Slaves. Weapons. And you will obey…",
 
+		"uniqueName": "Eternal Throne",
+	        "uniques": ["[+1 Culture] from all [Science] buildings","[+1 Happiness] from all [Culture] buildings","[50]% Strength <vs cities>","[-50]% City-State Influence degradation"],
+
 		"outerColor": [255,255,255],
 		"innerColor": [130,93,17],
 		"cities": [
@@ -1295,6 +1307,9 @@
 		"afterPeace": "We haven't been defeated. Merely slowed down a bit.",
 		"tradeRequest": "There's a degree of risk involved. But risk has always been an inescapable part of warfare. In this case, the potential benefits far outweigh the potential dangers.",
 
+                "uniqueName": "Expansionary Defense Force",
+	        "uniques": ["Great General provides double combat bonus", "[Great General] is earned [50]% faster","[+2] Movement <for [Water] units>"],
+		
 		"outerColor": [255,255,255],
 		"innerColor": [55,72,110],
 		"cities": [
@@ -1357,6 +1372,10 @@
 		
 		"afterPeace": "Hapes can only be as strong as those who lead her.",
 		"tradeRequest": "Greetings from the esteemed Queen Mother of the Hapes Consortium.",
+
+		"uniqueName": "Queen Mother",
+	        "uniques": ["[+1 Culture] from all [Food] buildings","[+1 Happiness] from all [Culture] buildings","[+1 Production] from every [Mine]"],
+		
 		"outerColor": [0,119,177],
 		"innerColor": [255,195,45],
 		"cities": [
@@ -1422,6 +1441,10 @@
 		
 		"afterPeace": "Thanks.",
 		"tradeRequest": "Listen.",
+
+		"uniqueName": "Corporate authority",
+	        "uniques": ["[+1 Gold] from all [Production] buildings","[+1 Production] from all [Production] buildings","[+1 Gold] from each Trade Route","[20] Unit Supply","[+50]% Unhappiness from [Population] [in all cities]"],
+		
 		"outerColor": [255,255,255],
 		"innerColor": [208,20,15],
 		"cities": [
