@@ -2116,4 +2116,43 @@
 			"Beris",
 		],
 	},
+	{
+		"name": "Crimson Dawn",
+		"leaderName": "Maul",
+		"adjective": ["Crimson Dawn"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The Sith took everything from me. Ripped me from my mother's arms, murdered my brother, used me as a weapon and then cast me aside. Abandoned me. Once, I had power, now I have nothing. Nothing.",
+		"declaringWar": "Silence! You think you know me? It was I who languished for years thinking of nothing but you! Nothing but this moment! And now, the perfect tool for my vengeance is in front of us. I never planned on killing you, but I will make you share my pain.",
+		"attacked": "You may have forgotten me, but I will never forget you. You cannot imagine the depths I would go to to stay alive, fueled by my singular hatred, for you.",
+		"defeated": "I was apprentice to the most powerful being in the galaxy once. I was destined to become… so much more. But I was robbed of that destiny by you.",
+		"introduction": "Fear. Fear attracts the fearful… the strong… the weak… the innocent… the corrupt. Fear. Fear is my ally.",
+		
+		"neutralHello": "Fear. Fear attracts the fearful… the strong… the weak… the innocent… the corrupt. Fear. Fear is my ally.",
+		"neutralLetsHearIt": ["Fear. Fear attracts the fearful… the strong… the weak… the innocent… the corrupt. Fear. Fear is my ally."],
+		"neutralNo": ["You are but one small piece moving in this mechanism which I have designed, and yet, when you falter, it jeopardizes everything."],
+		"neutralYes": ["You and I will be working much more closely from now on."],
+
+		"hateHello": "Fear. Fear attracts the fearful… the strong… the weak… the innocent… the corrupt. Fear. Fear is my ally.",
+		"hateLetsHearIt": ["Fear. Fear attracts the fearful… the strong… the weak… the innocent… the corrupt. Fear. Fear is my ally."],
+		"hateNo": ["To continue, we need one singular vision…my vision."],
+		"hateYes": ["At last, the great deceiver comes to rescue his pawn."],
+		
+		"afterPeace": "Our futures converge on a planet with two suns. We can walk that path together as friends, as brothers.",
+		"tradeRequest": "Our futures converge on a planet with two suns. We can walk that path together as friends, as brothers.",
+		"outerColor": [0,0,0],
+		"innerColor": [143,112,56],
+		"cities": [
+			"Dathomir",
+			"Laecor",
+			"Savareen",
+			"Oro Sankeria",
+			"Cataract",
+			"Athus Klee",
+			"Vandor",
+			"Jekara",
+			"Cantonica",
+		],
+	},
 ]
