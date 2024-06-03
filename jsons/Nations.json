@@ -855,7 +855,7 @@
 			"Mygeeto",
 			"Yag'Dhul",
 			"Sluis Van",
-			"Clak'dor VII",
+			"Clak'dor",
 			"Moraband",
 			"Triton",
 			"Minntooine",
@@ -865,12 +865,12 @@
 			"Devaron",
 			"Karkaris",
 			"Thustra",
-			"Abrion Major",
+			"Abrion",
 			"Agamar",
 			"Yir Tangee",
 			"Riflor",
 			"Ansion",
-			"Caramm V",
+			"Caramm",
 			"Orto",
 			"Emberlene",
 			"Khorm",
@@ -915,10 +915,10 @@
 			"Generis",
 			"Crait",
 			"Atollon",
-			"Paucris Major",
+			"Paucris",
 			"Chrellis",
 			"Brigia",
-			"Orion IV",
+			"Orion",
 			"Sran",
 			"Dantooine",
 			"Akuria",
@@ -1056,7 +1056,7 @@
 		"tradeRequest": "Welcome my home. You see my home, I be-bel-believe. You come me there. I show you splendor Yuuzhan Vong.",
 
 		"uniqueName": "Vongforming",
-	        "uniques": ["[+1 Food] from all [Gold] buildings","[+1 Food] from all [Production] buildings","[50]% Strength <vs cities>","City-State territory always counts as friendly territory"],
+	        "uniques": ["[+1 Food] from all [Gold] buildings","[+1 Food] from all [Production] buildings","[50]% Strength <vs cities>","City-State territory always counts as friendly territory","Cities are razed [2] times as fast"],
 
 		"outerColor": [0,0,0],
 		"innerColor": [192,98,98],
@@ -1521,6 +1521,10 @@
 		
 		"afterPeace": "I never risk my own skin if I don't have to.",
 		"tradeRequest": "You will sign it, or you will suffer.",
+
+		"uniqueName": "Shipping mediator",
+	        "uniques": ["[+2 Gold] from each Trade Route","[20] Unit Supply","[-50]% City-State Influence degradation","City-State territory always counts as friendly territory","[+30]% Strength <vs [City-states]>"],
+		
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": [
@@ -1577,6 +1581,10 @@
 		
 		"afterPeace": "Perhaps we can come to a compromise.",
 		"tradeRequest": "With these new Battle Droids we've built for you, you'll have the finest army in the galaxy.",
+
+		"uniqueName": "Arms dealer",
+	        "uniques": ["[+1 Gold] from each Trade Route","[20] Unit Supply","Gain [35] Influence with a [Military] gift to a City-State","[+50]% Production when constructing [All] units [in all cities]"],
+		
 		"outerColor": [255,193,34],
 		"innerColor": [116,30,3],
 		"cities": [
@@ -1625,6 +1633,10 @@
 		
 		"afterPeace": "Every atom of my being is at your command.",
 		"tradeRequest": "Congratulations. You have come to the attention of Black Sun.",
+
+		"uniqueName": "Adaptation",
+	        "uniques": ["[-50]% City-State Influence degradation","City-State territory always counts as friendly territory","[-50]% Unhappiness from [Population] [in all cities]","[+1 Gold] from all [Gold] buildings"],
+		
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": [
@@ -1661,9 +1673,13 @@
 		"hateLetsHearIt": ["Speak."],
 		"hateNo": ["What you are proposing could be construed as treason."],
 		"hateYes": ["We, the Commerce Guild, are always eager to take advantage of shifting political realities."],
+
+		"uniqueName": "Mining conglomerate",
+	        "uniques": ["[+1 Gold] from each Trade Route","[-20]% construction time for [All] improvements","[+1 Production] from every [Mine]"],
 		
 		"afterPeace": "I have all of our best interests at heart.",
 		"tradeRequest": "I have all of our best interests at heart.",
+		
 		"outerColor": [4,107,214],
 		"innerColor": [102,219,2],
 		"cities": [
@@ -1703,6 +1719,10 @@
 		
 		"afterPeace": "The Banking Clan will sign your treaty.",
 		"tradeRequest": "May there be prosperity and stability in all our lands!",
+
+		"uniqueName": "Banking Clan",
+	        "uniques": ["[-50]% City-State Influence degradation","[+2 Gold] from all [Gold] buildings","[Great Merchant] is earned [50]% faster"],
+		
 		"outerColor": [0,0,0],
 		"innerColor": [232,217,142],
 		"cities": [
