@@ -1717,7 +1717,7 @@
 		"tradeRequest": "May there be prosperity and stability in all our lands!",
 
 		"uniqueName": "Banking Clan",
-	        "uniques": ["[-50]% City-State Influence degradation","[+2 Gold] from all [Gold] buildings","[Great Merchant] is earned [50]% faster","[+50]% Golden Age length"],
+	        "uniques": ["[-50]% City-State Influence degradation","[+2 Gold] from all [Gold] buildings","[Great Merchant] is earned [50]% faster","[+50]% Golden Age length","Gain [90] Influence with a [Great Person] gift to a City-State",],
 		
 		"outerColor": [0,0,0],
 		"innerColor": [232,217,142],
@@ -1756,6 +1756,10 @@
 		
 		"afterPeace": "I am authorized by the Corporate Alliance to sign the treaty.",
 		"tradeRequest": "Always at your service. Always.",
+
+		"uniqueName": "Negotiating body",
+	        "uniques": ["[-50]% City-State Influence degradation","When declaring friendship, both parties gain a [10]% boost to great person generation"],
+		
 		"outerColor": [255,255,255],
 		"innerColor": [130,41,43],
 		"cities": [
@@ -1792,7 +1796,11 @@
 		
 		"afterPeace": "If you follow me, I'm sure we can reach a… mutually beneficial arrangement.",
 		"tradeRequest": "If you follow me, I'm sure we can reach a… mutually beneficial arrangement.",
-		"outerColor": [255,255,255],
+
+		"uniqueName": "Spice cartel",
+	        "uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Mine]","City-State Influence recovers at twice the normal rate"],
+		
+		"outerColor": [0,0,0],
 		"innerColor": [247,187,3],
 		"cities": [
 			"Oba Diah",
