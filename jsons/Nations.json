@@ -28,7 +28,7 @@
 		"tradeRequest": "And if I ever need your services again, I will not hesitate to clone you.",
 
 		"uniqueName": "New Order",
-	        "uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [20] turns.","Resting point for Influence with City-States is increased by [10]"],
+	        "uniques": ["Can spend Gold to annex or puppet a City-State that has been your ally for [20] turns.","Resting point for Influence with City-States is increased by [10]","[-50]% City-State Influence degradation"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
@@ -760,7 +760,7 @@
 		"tradeRequest": "The strong rule; the weak are meant to serve. This is the way it must be.",
 
 		"uniqueName": "Revenge of the Sith",
-	        "uniques": ["[+15]% Strength <for [All] units> <when below [5] Happiness>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]",],
+	        "uniques": ["[+15]% Strength <for [All] units> <when below [5] Happiness>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]"],
 
 		"outerColor": [0,0,0],
 		"innerColor": [158,25,25],
@@ -830,7 +830,7 @@
 		"tradeRequest": "I am a man of great wealth, and I can be very generous to my allies.",
 
 		"uniqueName": "Droid Army",
-	        "uniques": ["Damage is ignored when determining unit Strength <for [All] units>","[+1 Gold] from each Trade Route","[20] Unit Supply"],
+	        "uniques": ["Damage is ignored when determining unit Strength <for [All] units>","[+1 Gold] from each Trade Route","[20] Unit Supply","[-50]% City-State Influence degradation"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,85],
@@ -1839,7 +1839,7 @@
 		"tradeRequest": "Everyone has a price.",
 
 		"uniqueName": "Black market",
-	        "uniques": ["[+1 Gold] from each Trade Route","City-State Influence recovers at twice the normal rate","City-State territory always counts as friendly territory","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+	        "uniques": ["[+1 Gold] from each Trade Route","City-State Influence recovers at twice the normal rate","City-State territory always counts as friendly territory","[+20]% Strength <when fighting units from a Civilization with more Cities than you>","[+1 Gold] [in all cities]"],
 		
 		"outerColor": [0,0,0],
 		"innerColor": [256,119,1],
@@ -1918,8 +1918,8 @@
 		"afterPeace": "We Yevetha are skilled in matters of making. It is a gift of our very being. These hands are sure. These minds learn quickly.",
 		"tradeRequest": "We Yevetha are skilled in matters of making. It is a gift of our very being. These hands are sure. These minds learn quickly.",
 
-		"uniqueName": "theocracy",
-	        "uniques": ["[+1 Faith] from all [Faith] buildings","[+30]% Strength <vs [City-states]>","Cities are razed [2] times as fast","[Great Prophet] is earned [50]% faster",],
+		"uniqueName": "Theocracy",
+	        "uniques": ["[+1 Faith] from all [Faith] buildings","[+30]% Strength <vs [City-states]>","Cities are razed [2] times as fast","[Great Prophet] is earned [50]% faster"],
 		
 		"outerColor": [237, 0, 0],
 		"innerColor": [255,255,255],
@@ -1966,6 +1966,10 @@
 		
 		"afterPeace": "Purple shift.",
 		"tradeRequest": "Purple vertex.",
+
+		"uniqueName": "Technological insulation",
+	        "uniques": ["[+1 Science] from all [Science] buildings","Receive a tech boost when scientific buildings/wonders are built in capital","Science gained from research agreements [+100]%","[+100]% unhappiness from the number of cities","[Great Scientist] is earned [50]% faster"],
+		
 		"outerColor": [86, 130, 3],
 		"innerColor": [0,0,0],
 		"cities": [
@@ -1981,7 +1985,7 @@
 		"name": "Kolkpravis",
 		"leaderName": "Qymaen jai Sheelal",
 		"adjective": ["Kaleesh"],
-		"startBias": ["Avoid [Tundra]"],
+		"startBias": ["Avoid [Coast]"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Jedi! You are surrounded, your army is decimated. Make peace with the Force now…for this is your final hour. But know that I, General Grievous, am not completely without mercy. I will grant you a warrior's death. Prepare!",
@@ -2002,6 +2006,10 @@
 		
 		"afterPeace": "Army or not, you must realize, you are doomed.",
 		"tradeRequest": "You are a bold one.",
+
+		"uniqueName": "Tribal warlord",
+	        "uniques": ["Earn [50]% of killed [Military] unit's [Strength] as [Culture]","[+50]% Unhappiness from [Population] [in all cities]","[+100]% unhappiness from the number of cities","[Great General] is earned [50]% faster","Great General provides double combat bonus"],
+		
 		"outerColor": [224, 205, 169],
 		"innerColor": [0,0,0],
 		"cities": [
@@ -2039,6 +2047,10 @@
 		
 		"afterPeace": "Our orders are to blockade, not chase. I have won this round.",
 		"tradeRequest": "You are a bold one.",
+
+		"uniqueName": "Total annihilation",
+	        "uniques": ["[Great General] is earned [50]% faster","Great General provides double combat bonus","[+2] Movement <for [Water] units>"],
+		
 		"outerColor": [150,176,173],
 		"innerColor": [243,253,252],
 		"cities": [
@@ -2075,6 +2087,10 @@
 		
 		"afterPeace": "The Kind seek only to live in harmony with the Song of the Universe.",
 		"tradeRequest": "The Kind seek only to live in harmony with the Song of the Universe.",
+
+		"uniqueName": "Hive mind",
+	        "uniques": ["[+1 Culture] from all [Science] buildings","[+1 Culture] from each Trade Route","[-100]% Unhappiness from [Population] [in all cities]","[-50]% unhappiness from the number of cities","[+1] Sight <for [{Military} {Land}] units>"],
+		
 		"outerColor": [121, 137, 51],
 		"innerColor": [179, 103, 0],
 		"cities": [
@@ -2130,6 +2146,10 @@
 		
 		"afterPeace": "The Confederation will do what barbarians always do - divide the spoils.",
 		"tradeRequest": "The Confederation will do what barbarians always do - divide the spoils.",
+
+		"uniqueName": "Confederacy",
+	        "uniques": ["[-50]% Gold cost of acquiring tiles [in all cities]","[+1 Gold] from each Trade Route","[-20]% construction time for [All] improvements","[-50]% City-State Influence degradation"],
+		
 		"outerColor": [255,133,1],
 		"innerColor": [255,255,1],
 		"cities": [
@@ -2200,6 +2220,10 @@
 		
 		"afterPeace": "Our futures converge on a planet with two suns. We can walk that path together as friends, as brothers.",
 		"tradeRequest": "Our futures converge on a planet with two suns. We can walk that path together as friends, as brothers.",
+
+		"uniqueName": "Shadow Collective",
+	        "uniques": ["[+1] Sight <for [{Military} {Land}] units>","[+1 Gold] [in all cities]"],
+		
 		"outerColor": [0,0,0],
 		"innerColor": [143,112,56],
 		"cities": [
