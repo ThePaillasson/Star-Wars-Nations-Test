@@ -760,7 +760,7 @@
 		"tradeRequest": "The strong rule; the weak are meant to serve. This is the way it must be.",
 
 		"uniqueName": "Revenge of the Sith",
-	        "uniques": ["[+15]% Strength <for [All] units> <when below [5] Happiness>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+	        "uniques": ["[+15]% Strength <for [All] units> <when below [5] Happiness>","[+20]% Strength <when fighting units from a Civilization with more Cities than you>","Earn [50]% of killed [Military] unit's [Strength] as [Faith]",],
 
 		"outerColor": [0,0,0],
 		"innerColor": [158,25,25],
@@ -1717,7 +1717,7 @@
 		"tradeRequest": "May there be prosperity and stability in all our lands!",
 
 		"uniqueName": "Banking Clan",
-	        "uniques": ["[-50]% City-State Influence degradation","[+2 Gold] from all [Gold] buildings","[Great Merchant] is earned [50]% faster","[+50]% Golden Age length","Gain [90] Influence with a [Great Person] gift to a City-State",],
+	        "uniques": ["[-50]% City-State Influence degradation","[+2 Gold] from all [Gold] buildings","[Great Merchant] is earned [50]% faster","[+50]% Golden Age length","Gain [90] Influence with a [Great Person] gift to a City-State"],
 		
 		"outerColor": [0,0,0],
 		"innerColor": [232,217,142],
@@ -1837,6 +1837,10 @@
 		
 		"afterPeace": "Time is money.",
 		"tradeRequest": "Everyone has a price.",
+
+		"uniqueName": "Black market",
+	        "uniques": ["[+1 Gold] from each Trade Route","City-State Influence recovers at twice the normal rate","City-State territory always counts as friendly territory","[+20]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		
 		"outerColor": [0,0,0],
 		"innerColor": [256,119,1],
 		"cities": [
@@ -1873,6 +1877,10 @@
 		
 		"afterPeace": "Zygerria will be rich and powerful again.",
 		"tradeRequest": "Slavery is the natural order of things.",
+
+		"uniqueName": "Slave hegemony",
+	        "uniques": ["[+1 Gold] from each Trade Route","[+1 Gold] from every [Mine]","[+1 Culture] from all [Gold] buildings","[+1 Gold] from all [Production] buildings"],
+		
 		"outerColor": [153,153,153],
 		"innerColor": [170,0,0],
 		"cities": [
@@ -1909,6 +1917,10 @@
 		
 		"afterPeace": "We Yevetha are skilled in matters of making. It is a gift of our very being. These hands are sure. These minds learn quickly.",
 		"tradeRequest": "We Yevetha are skilled in matters of making. It is a gift of our very being. These hands are sure. These minds learn quickly.",
+
+		"uniqueName": "theocracy",
+	        "uniques": ["[+1 Faith] from all [Faith] buildings","[+30]% Strength <vs [City-states]>","Cities are razed [2] times as fast","[Great Prophet] is earned [50]% faster",],
+		
 		"outerColor": [237, 0, 0],
 		"innerColor": [255,255,255],
 		"cities": [
