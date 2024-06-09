@@ -252,6 +252,7 @@
 			"Kijimi",
 			"Iotra",
 		],
+		 "spyNames": ["Bode Akuna","Alexsandr Kallus", "Gar Saxon", "Garindan ezz Zavor", "Boba Fett", "Bossk'wassak'Cradossk", "Dengar", "IG-88", "4-LOM", "Zuckuss"]
 	},
 
 	{
@@ -343,6 +344,7 @@
 			"Tatooine",
 			"Seoul",
 		],
+		 "spyNames": ["Ore'mun", "Tul'kar", "Trill", "Xesh", "Ceh'let", "Soa", "Gorshaa", "Lhunu", "Elshuu", "Subject 13"]
 	},
 	
 	{
@@ -450,8 +452,8 @@
 			"Bogden",
 			"Eclipse",
 			"Shedu Maad",
-			
 		],
+		"spyNames": ["Revan", "Bastila Shan", "Satele Shan", "Barsen'thor", "Rohlan of Kaal", "Mace Windu", "Qui-Gon Jinn", "Obi-Wan Kenobi", "Anakin Skywalker", "Ahsoka Tano", "Luke Skywalker"]
 	},
 	
 	{
@@ -541,6 +543,7 @@
 			"Ojom",
 			"Gavos",
 		],
+		 "spyNames": ["Cad Bane", "Aurra Sing", "Embo", "Robonino", "Shahan Alama", "J'Quille", "Saelt-Marae", "Greedo", "Boba Fett", "Fennec Shand"]
 	},
 	
 	{
@@ -644,6 +647,7 @@
 			"Far Barseg",
 			"Gwynhes",
 		],
+		"spyNames": ["Xer", "Oziaf the Insignificant", "Robeir II", "Lyechusas", "Matteus Zaym", "Peshosloc", "Basel", "Sannus Lorrick", "Dominic Raynor", "Jake Harthan"]
 	},
 		
 	{
@@ -729,6 +733,7 @@
 			"Ruhnuk",
 			"Gargon",
 		],
+		"spyNames": ["Ordo", "Lok", "Vizla", "Awaud", "Fett", "Kryze", "Vizsla", "Wren", "Saxon", "Mudhorn"]
 	},
 
 	{
