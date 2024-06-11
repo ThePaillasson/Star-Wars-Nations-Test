@@ -1439,10 +1439,9 @@
 			"Sharb",
 			"Noris",
 			"Schesa",
-			"Ornfra"
-			
-			
+			"Ornfra"	
 		],
+		"spyNames": ["Stybla", "Mitth", "Obbic", "Irizi", "Ufsa", "Boadil", "Chaf", "Dasklo", "Plikh", "Clarr"]
 	},
 	{
 		"name": "Hapes Consortium",
@@ -1512,6 +1511,7 @@
 			"Millinar",
 			"Rainboh",
 		],
+		"spyNames": ["Moreem Espara", "Marlene", "Wilhelm", "Eva", "Heinz", "Horst", "Carl", "Viper", "Albrecht", "Anton"]
 	},
 	{
 		"name": "Corporate Sector Authority",
