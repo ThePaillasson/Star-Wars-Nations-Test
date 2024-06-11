@@ -252,7 +252,7 @@
 			"Kijimi",
 			"Iotra",
 		],
-		 "spyNames": ["Bode Akuna","Alexsandr Kallus", "Gar Saxon", "Garindan ezz Zavor", "Boba Fett", "Bossk'wassak'Cradossk", "Dengar", "IG-88", "4-LOM", "Zuckuss"]
+		 "spyNames": ["Theron Shan", "Bode Akuna", "Alexsandr Kallus", "Garindan ezz Zavor", "Boba Fett", "Bossk'wassak'Cradossk", "Dengar", "IG-88", "4-LOM", "Zuckuss"]
 	},
 
 	{
@@ -896,6 +896,7 @@
 			"Vinsoth",
 			"Trandosha",
 		],
+		"spyNames": ["Darth Baras", "Lana Beniko", "Darth Xarion", "Cipher Nine", "Qrukk", "Raveen", "Darth Maul", "Darth Krayt", "Darth Maladi", "Darth Kruhl"]
 	},
 	
 	{
@@ -970,6 +971,7 @@
 			"Emberlene",
 			"Khorm",
 		],
+		"spyNames": ["Asajj Ventress", "Durge", "Tikkes", "Rogwa Wodrata", "Tal Merrik", "Toonbuck Toora", "Corlissi Ludar", "Dodra F'ass", "Daggibus Scoritoles", "Onaconda Farr"]
 	},
 
 	{
@@ -1119,6 +1121,7 @@
 			"Ajan Kloss",
 
 		],
+		 "spyNames": ["Leia Organa", "Cassian Jeron Andor", "Jyn Erso", "Han Solo", "Chewbacca", "Lando Calrissian", "Wedge Antilles", "Poe Dameron", "Finn", "Rose Tico"]
 	},
 
 	{
@@ -1323,6 +1326,7 @@
 			"Caluula",
 			"Toong'L",
 		],
+		"spyNames": ["Onimi", "Nom Anor", "Tsavong Lah", "Nas Choka", "Shedao Shai", "Deign Lian", "Nen Yim", "Ni Khess", "Vongerella", "Tahiri Veila"]
 	},
 
 	{
@@ -1371,6 +1375,7 @@
 			"Denova",
 			"Iokath",
 		],
+		"spyNames": ["Senya Tirall", "Arcann", "Thexan", "Vaylin", "Malforia", "Andur Melor", "Lesin Tyn", "Tarso Gren", "Zar Draya", "Forta Gair", "Jom Vanten", "Zotar"]
 	},	
 
 	{
