@@ -1757,6 +1757,7 @@
 			"Dantooine",
 			"Nakadia",
 		],
+		"spyNames": ["Skadge", "Salarr", "Alexi Garyn", "Dal Perhi", "Urbax", "Guri", "Xomit Grunseit", "Ziton Moj", "Y'ull Acib", "Czethros"]
 	},
 	{
 		"name": "Commerce Guild",
@@ -1802,6 +1803,7 @@
 			"Moraband",
 			"Tyed Kant",
 		],
+		"spyNames": ["Cat Miin", "Amita Fonti", "Beolars Bribbs", "Dua Ningo", "Iaco Stark", "Mousul", "Nemrileo irm-Drocubac", "Soergg Vosadii Bezhin", "Bog Divinian", "Tibbs Ospe"]
 	},
 	{
 		"name": "InterGalactic Banking Clan",
@@ -1845,6 +1847,7 @@
 			"Cato Neimoidia",
 			"Kaer",
 		],
+		"spyNames": ["Hego Damask", "Nix Card", "Rush Clovis", "Clu Lesser", "Pors Tonith", "Mak Plain", "Morlimur Snugg", "SD-357", "Gani Riduli", "Anolo"]
 	},
 	{
 		"name": "Corporate Alliance",
@@ -1885,6 +1888,7 @@
 			"Ochotl",
 			"Moorja",
 		],
+		"spyNames": ["Denaria Kee", "Voe Atell", "Oro Dassyne", "Jerv Riske", "Helina Dow",  "Denlace Sachoore", "Doctor", "Magus", "Idis", "Seventeen"]
 	},
 	{
 		"name": "Pyke Syndicate",
@@ -1927,6 +1931,7 @@
 			"Roon",
 			"Abregado-Rae",
 		],
+		"spyNames": ["Marg Krim", "Fife", "Quay Tolsite", "Mok Shaiz", "Dokk Strassi", "Garfalaquox", "Cad Bane", "Omel Sampak", "Gorak", "Trellev Aquem"]
 	},
 	{
 		"name": "Zann Consortium",
