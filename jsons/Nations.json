@@ -1972,6 +1972,7 @@
 			"Hypori",
 			"Cardooine",
 		],
+		"spyNames": ["Urai Fen", "Jerid Sykes", "Venlana Sipal", "Silri", "Jander", "Zevrix", "IG-88A", "Bossk", "Cuddles", "Jabba"]
 	},
 	{
 		"name": "Zygerrian Slave Empire",
@@ -2014,6 +2015,7 @@
 			"Shi'kar",
 			"Ord Mantell",
 		],
+		"spyNames": ["Atai Molec", "Darts D'Nar", "Sono Molec", "Raney", "Agruss", "Rajim Armin", "Omus Krill", "Hordem Molec", "Onyx", "Slego"]
 	},
 	{
 		"name": "Duskhan League",
@@ -2063,6 +2065,7 @@
 			"Pirol",
 			"Kutag",
 		],
+		"spyNames": ["Eri Palle", "Dar Bille", "Kol Attan", "Tho Voota", "Ton Raalk", "Zorbazat Xong", "Vor Duull", "Tal Fraan", "Kan Nakkar"]
 	},
 	{
 		"name": "Gree Enclave",
@@ -2104,6 +2107,7 @@
 			"Te Hasa",
 			"Lonatro",
 		],
+		"spyNames": ["Lalat'k", "Beltek'k", "Trikat'k", "Zilok'k", "Zilok'k", "Rodok'k", "Apnok'k", "Anbav'k", "Hathe'k", "", "Totth'k"]
 	},
 	{
 		"name": "Kolkpravis",
@@ -2145,6 +2149,7 @@
 			"Vassek",
 			"Utapau",
 		],
+		"spyNames": ["Xivhkalrainik", "Qynem Lij Sunnar", "Xim'tahal", "Kassor Quade", "Nyranos", "Jai Quallo", "Dumas Mar'Ti", "Ronderu lij Kummar", "Bentilais san Sk'ar"]
 	},
 	{
 		"name": "Spiverelda",
