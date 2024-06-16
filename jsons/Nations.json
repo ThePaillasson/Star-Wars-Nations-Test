@@ -2190,6 +2190,7 @@
 			"Horos",
 			"Secundus Ando",
 		],
+		"spyNames": ["Gwishi", "Po Nudo", "Nank Tun", "Pune Zignat", "Ponda Baba", "Teak Sidbam", "Amda Wabo", "Bohento Splinth", "Roonlo", "Wooro"]
 	},
 	{
 		"name": "The Colony",
@@ -2249,6 +2250,7 @@
 			"Alaala",
 			"Togot",
 		],
+		"spyNames": ["Sabas Killik Queen", "Killik Praetor", "Ukunuku Night Herald", "Ruur Night Herald", "Killik 1", "Killik 2", "Lomi Plo", "Welk", "Alema Rar", "Thuruht Queen"]
 	},
 	{
 		"name": "Corellian Confederation",
@@ -2323,6 +2325,7 @@
 			"Altyr",
 			"Beris",
 		],
+		"spyNames": ["Tammia Hollusen", "Turr Phennir", "Aidel Saxan", "Denjax Teppler", "Dur Gejjen", "Sadras Koyan", "Shas Vadde", "Fyor Rodan", "Vara Karathas", "Genna Delpin"]
 	},
 	{
 		"name": "Crimson Dawn",
