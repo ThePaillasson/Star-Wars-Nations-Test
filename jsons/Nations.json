@@ -1963,7 +1963,7 @@
 	        "uniques": ["[+1 Gold] from each Trade Route","City-State Influence recovers at twice the normal rate","City-State territory always counts as friendly territory","[+20]% Strength <when fighting units from a Civilization with more Cities than you>","[+1 Gold] [in all cities]"],
 		
 		"outerColor": [0,0,0],
-		"innerColor": [256,119,1],
+		"innerColor": [255,119,1],
 		"cities": [
 			"Ryloth",
 			"Kamino",
