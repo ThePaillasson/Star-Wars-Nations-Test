@@ -2380,6 +2380,7 @@
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "We never fully trusted you from the start.",
+		"outerColor": [112,128,144],
 		"innerColor": [255,255,255],
 		"cities": ["Gordian Reach"]
 	},
