@@ -2072,7 +2072,7 @@
 		"leaderName": "Rokak'k",
 		"adjective": ["Gree"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Cultured",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "I know you're familiar with the ancient Rakata Infinite Empire. These people predate them by eons.",
 		"startIntroPart2": "Even though the Gree have been gone for millennia, technology that old might as well be ten thousand years ahead of us instead of ten thousand behind. It's obscure. Arcane. Not to be touched.",
@@ -2114,7 +2114,7 @@
 		"leaderName": "Qymaen jai Sheelal",
 		"adjective": ["Kaleesh"],
 		"startBias": ["Avoid [Coast]"],
-		"preferredVictoryType": "cultured",
+		"preferredVictoryType": "Cultured",
 		
 		"startIntroPart1": "Jedi! You are surrounded, your army is decimated. Make peace with the Force now…for this is your final hour. But know that I, General Grievous, am not completely without mercy. I will grant you a warrior's death. Prepare!",
 		"declaringWar": "Your skills are impressive. Perhaps a match for my own.",
@@ -2197,7 +2197,7 @@
 		"leaderName": "UnuThul",
 		"adjective": ["Killik"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "cultured",
+		"preferredVictoryType": "Cultured",
 		
 		"startIntroPart1": "The Killiks are tied to the history of the galaxy in a way we don't understand yet. They were living in cities before humans learned to build, and they were a civilization before the Sith were spawned. They were here when Centerpoint and the Maw were constructed-and they were driven from Alderaan by the beings who did it.",
 		"declaringWar": "We have heard about this new Force of yours, and we despair. You have grown blind to the dark side itself.",
@@ -2388,7 +2388,7 @@
 		"name": "Altirian Republic",
 		"adjective": ["Altiri"],
 		"cityStateType": "Cultured",
-		"startBias": ["Grasslands"],
+		"startBias": ["Grassland"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -2790,7 +2790,7 @@
 		"name": "Cato Neimoidian Government",
 		"adjective": ["Cato Neimoidian"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Hills"],
+		"startBias": ["Hill"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -2804,7 +2804,7 @@
 		"name": "Chevin Conglomerate",
 		"adjective": ["Chevin"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Grasslands"],
+		"startBias": ["Grassland"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -2818,7 +2818,7 @@
 		"name": "Christophsis Oligarchy",
 		"adjective": ["Christophsian"],
 		"cityStateType": "Mercantile",
-		"startBias": ["Avoid Grasslands"],
+		"startBias": ["Avoid Grassland"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -3063,7 +3063,7 @@
 	{
 		"name": "Aleena monarchy",
 		"adjective": ["Aleena"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		"startBias": ["Desert"],
 
 		"declaringWar": "Ratingda hota thrit rish ata!",
@@ -3077,7 +3077,7 @@
 	{
 		"name": "Alderaanian Monarchy",
 		"adjective": ["Alderaanian"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "Authority can be given, but leadership must be earned.",
@@ -3091,7 +3091,7 @@
 	{
 		"name": "Atrisian Commonwealth",
 		"adjective": ["Atrisian"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		"startBias": ["Forest"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -3105,8 +3105,8 @@
 	{
 		"name": "Blood Monarchy",
 		"adjective": ["Thisspiasian"],
-		"cityStateType": "cultured",
-		"startBias": ["Hills"],
+		"cityStateType": "Cultured",
+		"startBias": ["Hill"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -3119,7 +3119,7 @@
 	{
 		"name": "Chandrila Planetary Government",
 		"adjective": ["Chandrilan"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		"startBias": ["Grassland"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -3133,7 +3133,7 @@
 	{
 		"name": "Clan Assembly",
 		"adjective": ["Twi'lek"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		"startBias": ["Desert"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -3147,7 +3147,7 @@
 	{
 		"name": "Esselian Empire",
 		"adjective": ["Esselian"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		"startBias": ["Coast"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -3161,7 +3161,7 @@
 	{
 		"name": "Ewoks",
 		"adjective": ["Ewok"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		"startBias": ["Forest"],
 
 		"declaringWar": "Chiba chiba sohpa.",
@@ -3175,7 +3175,7 @@
 	{
 		"name": "Induparan Monarchy",
 		"adjective": ["Induparan"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -3188,7 +3188,7 @@
 	{
 		"name": "Noble Court",
 		"adjective": ["Nothoiin"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -3201,7 +3201,7 @@
 	{
 		"name": "Norat Sovereignty",
 		"adjective": ["Norat"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -3214,7 +3214,7 @@
 	{
 		"name": "Nouane",
 		"adjective": ["Nouanese"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -3227,7 +3227,7 @@
 	{
 		"name": "Wookiee council",
 		"adjective": ["Wookiee"],
-		"cityStateType": "cultured",
+		"cityStateType": "Cultured",
 		"startBias": ["Jungle"],
 
 		"declaringWar": "RRRrrruurgh! Arrggg!",
@@ -3257,7 +3257,7 @@
 		"name": "Anarrian Empire",
 		"adjective": ["Anarrian"],
 		"cityStateType": "Militaristic",
-		"startBias": ["Grasslands"],
+		"startBias": ["Grassland"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -3394,7 +3394,7 @@
 		"name": "Constitutional Protectorate of Prakith",
 		"adjective": ["Prakith"],
 		"cityStateType": "Militaristic",
-		"startBias": ["Hills"],
+		"startBias": ["Hill"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
