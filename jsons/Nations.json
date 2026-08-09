@@ -4040,12 +4040,5 @@
 		"outerColor": [0,0,0],
 		"innerColor": [252, 93, 93],
 		"cities": ["Ordo Eris"]
-	},
-	
-	{
-		"name": "Barbarians",
-		"outerColor": [0, 0, 0],
-		"innerColor": [116, 208, 241],
-		"uniques": ["Can only heal by pillaging", "Excluded from map editor"]
 	}
 ]
