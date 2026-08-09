@@ -352,7 +352,7 @@
 		"leaderName": "Grand Master Yoda",
 		"adjective": ["Jedi"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "cultured",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not.",
 		"startIntroPart2": "For my ally is the Force, and a powerful ally it is. Life creates it, makes it grow. Its energy surrounds us and binds us. Luminous beings are we, not this crude matter. You must feel the Force around you; here, between you, me, the tree, the rock, everywhere, yes. Even between the land and the ship.",
@@ -1334,7 +1334,7 @@
 		"leaderName": "Valkorion the Immortal Emperor",
 		"adjective": ["Zakuulan"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "cultured",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Look around you. Zakuul is poised to become the greatest civilization in the history of the galaxy.",
 		"startIntroPart2": "I have forged this empire to surmount all of my previous works. To span eternity.",
@@ -1448,7 +1448,7 @@
 		"leaderName": "Tenel Ka Ta'a Chume Djo",
 		"adjective": ["Hapan"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "cultured",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "The Hapes Cluster was originally settled by pirates, a group called the Lorell Raiders.",
 		"startIntroPart2": "For hundreds of years they stalked the trade routes, seizing ships, stealing cargo. And when they found a beautiful woman, some raider would take her as a prize to the hidden worlds of Hapes.",
@@ -1518,7 +1518,7 @@
 		"leaderName": "ExO",
 		"adjective": ["CSA"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Cultured",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "The Corporate Sector wasn't always what it is today. Back in the old days it was simply a place where businesses could go and make a few credits without too many bureaucrats getting into the act. As an enterprising businessman, I can appreciate that kind of setup.",
 		"startIntroPart2": "That was back when the Republic was something to be respected, and the businesses were kept on a tight leash. But things changed…",
@@ -1660,7 +1660,7 @@
 		"leaderName": "Wat Tambor",
 		"adjective": ["Techno Union"],
 		"startBias": ["Jungle"],
-		"preferredVictoryType": "Cultured",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "He is the Separatists' Techno Union Foreman, as well as a combat engineer. A brilliant strategist.",
 		"startIntroPart2": "And extremely dangerous—an expert at fighting machines, and a master of defense technologies. He is also an expert at escape.",
@@ -1810,7 +1810,7 @@
 		"leaderName": "San Hill",
 		"adjective": ["InterGalactic Banking Clan"],
 		"startBias": ["Tundra"],
-		"preferredVictoryType": "Cultured",
+		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "May there be prosperity and stability in all our lands! May our people be free and safe! Long live the banks!",
 		"declaringWar": "The safety of our clients investment is always our paramount concern.",
