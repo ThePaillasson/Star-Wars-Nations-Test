@@ -2110,7 +2110,7 @@
 		"spyNames": ["Lalat'k", "Beltek'k", "Trikat'k", "Zilok'k", "Zilok'k", "Rodok'k", "Apnok'k", "Anbav'k", "Hathe'k", "", "Totth'k"]
 	},
 	{
-		"name": "Kolkpravis",
+		"name": "Kolkpravis Clan",
 		"leaderName": "Qymaen jai Sheelal",
 		"adjective": ["Kaleesh"],
 		"startBias": ["Avoid [Coast]"],
@@ -2152,7 +2152,7 @@
 		"spyNames": ["Xivhkalrainik", "Qynem Lij Sunnar", "Xim'tahal", "Kassor Quade", "Nyranos", "Jai Quallo", "Dumas Mar'Ti", "Ronderu lij Kummar", "Bentilais san Sk'ar"]
 	},
 	{
-		"name": "Spiverelda",
+		"name": "Aqualish Spiverelda",
 		"leaderName": "Admiral Trench",
 		"adjective": ["Aqualish"],
 		"startBias": ["Coast"],
@@ -3704,9 +3704,9 @@
 		"cityStateType": "Militaristic",
 		"startBias": ["Coast"],
 		
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"declaringWar": "My personal strategy for victory is through total annihilation.",
+		"attacked": "Turn back now. Retreat while you can, for I am your doom.",
+		"defeated": "Your nobility--",
 		"outerColor": [113,116,138],
 		"innerColor": [121,59,27],
 		"cities": ["Ando"]
