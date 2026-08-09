@@ -659,7 +659,7 @@
 
 		
 		"startIntroPart1": "Here's why you can't exterminate us, aruetii. We're not huddled in one place—we span the galaxy. We need no lords or leaders—so you can't destroy our command. We can live without technology—so we can fight with our bare hands. We have no species or bloodline—so we can rebuild our ranks with others who want to join us.",
-		"startIntroPart2": "We're more than just a people or an army, aruetii. We're a culture. We're an idea. And you can't kill ideas—but we can certainly kill you."
+		"startIntroPart2": "We're more than just a people or an army, aruetii. We're a culture. We're an idea. And you can't kill ideas—but we can certainly kill you.",
 		
 		"declaringWar": "I see what you're doing. I see a defense without honor. Let them see what such a defense deserves. Let them burn.",
 		"attacked": "For my people it's the honor and glory of battle that rules us. It's through combat that we prove our worth, gain renown and make our fortunes.",
@@ -2379,7 +2379,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"innerColor": [255,255,255],
 		"cities": ["Gordian Reach"]
 	},
@@ -2392,7 +2392,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [46, 0, 108],
 		"innerColor": [0,0,0],
 		"cities": ["Altiria"]
@@ -2406,7 +2406,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [218, 179, 10],
 		"innerColor": [255, 215, 0],
 		"cities": ["Drall"]
@@ -2420,7 +2420,7 @@
 
 		"declaringWar": "Green perpendicular.",
 		"attacked": "Blue nonagon.",
-		"defeated": "Yellow concave"
+		"defeated": "Yellow concave",
 		"outerColor": [0,0,0],
 		"innerColor": [0, 255, 0],
 		"cities": ["Gree"]
@@ -2434,7 +2434,7 @@
 
 		"declaringWar": "I have no feelings for your people. Of course, we Kaminoans have few feelings for anything. It is not in our nature.",
 		"attacked": "After all these years, we were beginning to think you weren't coming.",
-		"defeated": "Millions of us were wiped out when the seas rose and engulfed Kamino. We survived as a species because we were willing to think the unthinkable. Some genetic characteristics helped us survive the starvation and overcrowding, and some did not, and there was no room for sentiment or for weaklings. We culled; we refined; we selected. The prospect of extinction forged us into the species we designed ourselves to be, the purest expression of the Kaminoan spirit, and at a level of social maturity that weaker mongrel species will never attain, because they lack the courage to cull. We are the masters of genetics and sole arbiters of our fate, never to be at the mercy of chance again."
+		"defeated": "Millions of us were wiped out when the seas rose and engulfed Kamino. We survived as a species because we were willing to think the unthinkable. Some genetic characteristics helped us survive the starvation and overcrowding, and some did not, and there was no room for sentiment or for weaklings. We culled; we refined; we selected. The prospect of extinction forged us into the species we designed ourselves to be, the purest expression of the Kaminoan spirit, and at a level of social maturity that weaker mongrel species will never attain, because they lack the courage to cull. We are the masters of genetics and sole arbiters of our fate, never to be at the mercy of chance again.",
 		"outerColor": [0,0,0],
 		"innerColor": [16, 52, 166],
 		"cities": ["Kamino"]
@@ -2448,7 +2448,7 @@
 
 		"declaringWar": "You are a pestilence upon the galaxy that, to our shame, we, the Kwa, unleashed.",
 		"attacked": "Attuned to the Power of the Cosmos, my people traveled the galaxy via Infinity Gates—portals that transported us instantly between great distances. How could you beat us.",
-		"defeated": "We observed many worlds and brought civilization to their people but yours was not included."
+		"defeated": "We observed many worlds and brought civilization to their people but yours was not included.",
 		"outerColor": [0,0,0],
 		"innerColor": [34, 66, 124],
 		"cities": ["Kwa holding"]
@@ -2462,7 +2462,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [22,184,78],
 		"cities": ["Tund"]
@@ -2475,7 +2475,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Pijal"]
@@ -2489,7 +2489,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [158,25,25],
 		"innerColor": [0,0,0],
 		"cities": ["Balmorra"]
@@ -2503,7 +2503,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [54,69,107],
 		"innerColor": [83,58,42],
 		"cities": ["Makem Te"]
@@ -2517,7 +2517,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [231,136,72],
 		"innerColor": [254,250,110],
 		"cities": ["Corellia"]
@@ -2531,7 +2531,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Eckless"]
@@ -2544,7 +2544,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "Anytime, anywhere… we're there."
+		"defeated": "Anytime, anywhere… we're there.",
 		"outerColor": [131, 166, 151],
 		"innerColor": [0,0,0],
 		"cities": ["Czerka Arms Headquarter"]
@@ -2557,7 +2557,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["Ruhnuk"]
@@ -2571,7 +2571,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Iego"]
@@ -2585,7 +2585,7 @@
 
 		"declaringWar": "Have you heard of the spice mines of Kessel? Slaves sent there last a few months. Maybe a year.",
 		"attacked": "Fear is as much a part of life on Kessel as spice or air. Control it and you'll do fine.",
-		"defeated": "The Yaruba Family of Kessel has always been a promoter of health and happiness across the stars."
+		"defeated": "The Yaruba Family of Kessel has always been a promoter of health and happiness across the stars.",
 		"outerColor": [0,0,0],
 		"innerColor": [239, 210, 66],
 		"cities": ["Kessel"]
@@ -2599,7 +2599,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [20, 148, 20],
 		"innerColor": [223, 109, 20],
 		"cities": ["Alzar"]
@@ -2613,7 +2613,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [31,120,188],
 		"innerColor": [206,199,118],
 		"cities": ["Cyphar"]
@@ -2627,7 +2627,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [94,116,148],
 		"innerColor": [131,193,113],
 		"cities": ["Glee Anselm"]
@@ -2641,7 +2641,7 @@
 
 		"declaringWar": "Yousa leave uss-ens no choice. War it must besa.",
 		"attacked": "Muy wellen, dis shall notsa besa forgotten.",
-		"defeated": "Wesa nebber fully trusted yousa from da start."
+		"defeated": "Wesa nebber fully trusted yousa from da start.",
 		"outerColor": [0,0,0],
 		"innerColor": [15, 5, 107],
 		"cities": ["Naboo"]
@@ -2655,7 +2655,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [86, 115, 154],
 		"innerColor": [169, 17, 1],
 		"cities": ["Vestar"]
@@ -2668,7 +2668,7 @@
 
 		"declaringWar": "*incomprehensible*",
 		"attacked": "*incomprehensible*",
-		"defeated": "*incomprehensible*"
+		"defeated": "*incomprehensible*",
 		"outerColor": [0,0,0],
 		"innerColor": [15, 5, 107],
 		"cities": ["Yoggoy"]
@@ -2682,7 +2682,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [30, 127, 203],
 		"innerColor": [1, 215, 88],
 		"cities": ["Yinchorr"]
@@ -2696,7 +2696,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [255, 215, 0],
 		"cities": ["Ab Dalis"]
@@ -2710,7 +2710,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255, 215, 0],
 		"cities": ["Aleron"]
@@ -2724,7 +2724,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [255, 215, 0],
 		"cities": ["Algara"]
@@ -2738,7 +2738,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [128, 109, 90],
 		"innerColor": [38, 97, 156],
 		"cities": ["Manaan"]
@@ -2752,7 +2752,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [194,177,174],
 		"innerColor": [157,131,110],
 		"cities": ["Arkania"]
@@ -2766,7 +2766,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255, 0, 0],
 		"innerColor": [255, 255, 0],
 		"cities": ["Manda"]
@@ -2780,7 +2780,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 0, 0],
 		"cities": ["Brentaal"]
@@ -2794,7 +2794,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 0, 0],
 		"cities": ["Cato Neimoidia"]
@@ -2808,7 +2808,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [128, 109, 90],
 		"innerColor": [70, 46, 1],
 		"cities": ["Vinsoth"]
@@ -2822,7 +2822,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [116,90,81],
 		"innerColor": [94,125,140],
 		"cities": ["Christophsis"]
@@ -2835,7 +2835,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "I now represent a number of planets—the Commonality—and their votes represent the swing votes in a badly divided Senate.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 0, 0],
 		"cities": ["Columex"]
@@ -2849,7 +2849,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 142, 142],
 		"innerColor": [76, 166, 107],
 		"cities": ["Duro"]
@@ -2862,7 +2862,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Exchange Headquarter"]
@@ -2876,7 +2876,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [166,193,184],
 		"innerColor": [119,176,200],
 		"cities": ["Talus-Tralus"]
@@ -2889,7 +2889,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [104,80,102],
 		"innerColor": [201,181,43],
 		"cities": ["Xolu"]
@@ -2903,7 +2903,7 @@
 
 		"declaringWar": "Your behavior is unacceptable, pison !",
 		"attacked": "You are a big chakk for fighting us !",
-		"defeated": "You don't know what mistake you did, umron !"
+		"defeated": "You don't know what mistake you did, umron !",
 		"outerColor": [0,0,0],
 		"innerColor": [136, 77, 167],
 		"cities": ["Giju"]
@@ -2916,7 +2916,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Jalorian"]
@@ -2930,7 +2930,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Dayark"]
@@ -2944,7 +2944,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [100,136,150],
 		"innerColor": [221,178,104],
 		"cities": ["Koboth"]
@@ -2958,7 +2958,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [31,60,110],
 		"innerColor": [243,81,31],
 		"cities": ["Tallaan"]
@@ -2971,7 +2971,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"cities": ["Marzoon"]
@@ -2985,7 +2985,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [223, 115, 255],
 		"cities": ["Bahlah"]
@@ -2999,7 +2999,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255, 255, 0],
 		"innerColor": [0,0,0],
 		"cities": ["Oba Diah"]
@@ -3013,7 +3013,7 @@
 
 		"declaringWar": "I'm a Toydarian. Mind tricks don't work on me, only money.",
 		"attacked": "Perhaps you failed to pay attention to the Senate orientation. They should have explained that Toydaria is a neutral system.",
-		"defeated": "Despite what you've heard, we Toydarians are a noble species."
+		"defeated": "Despite what you've heard, we Toydarians are a noble species.",
 		"outerColor": [0,0,0],
 		"innerColor": [37, 253, 233],
 		"cities": ["Toydaria"]
@@ -3026,7 +3026,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"cities": ["Nag Ubdur-Ubduria"]
@@ -3040,7 +3040,7 @@
 
 		"declaringWar": "I'm gonna make you pay for what you've done.",
 		"attacked": "You missed something else. I already have a love. And it's called money.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [247, 226, 105],
 		"cities": ["Jakuu"]
@@ -3054,7 +3054,7 @@
 
 		"declaringWar": "My queen is going to bring back the royal slave auction as in the days before. Zygerria will be rich and powerful again.",
 		"attacked": "Slavery is the natural order of things. The weak deserve nothing more than to kneel before the strong, bound to our service.",
-		"defeated": "For thousands of years, Zygerria supplied slave labor to the galaxy. We prospered. Our customers prospered. Then you came."
+		"defeated": "For thousands of years, Zygerria supplied slave labor to the galaxy. We prospered. Our customers prospered. Then you came.",
 		"outerColor": [0,0,0],
 		"innerColor": [255, 0, 127],
 		"cities": ["Zygerria"]
@@ -3068,7 +3068,7 @@
 
 		"declaringWar": "Ratingda hota thrit rish ata!",
 		"attacked": "Kata om, teep.",
-		"defeated": "Do rish za nya?"
+		"defeated": "Do rish za nya?",
 		"outerColor": [102,107,130],
 		"innerColor": [251,213,85],
 		"cities": ["Aleen"]
@@ -3082,7 +3082,7 @@
 
 		"declaringWar": "Authority can be given, but leadership must be earned.",
 		"attacked": "I'm a daughter of Alderaan. My mother raised me to cherish peace, as I am trying to raise you.",
-		"defeated": "We're lucky on Alderaan. We are loved by our people. We have their loyalty. That's because we love them and are loyal to them in turn. If we ever cease to appreciate those around us—from the highest lord to the humblest laborer—we'll lose that loyalty. We'll deserve to lose it."
+		"defeated": "We're lucky on Alderaan. We are loved by our people. We have their loyalty. That's because we love them and are loyal to them in turn. If we ever cease to appreciate those around us—from the highest lord to the humblest laborer—we'll lose that loyalty. We'll deserve to lose it.",
 		"outerColor": [35,50,68],
 		"innerColor": [105,99,94],
 		"cities": ["Alderaan"]
@@ -3096,7 +3096,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [15, 5, 107],
 		"innerColor": [0,0,0],
 		"cities": ["Atrisia"]
@@ -3110,7 +3110,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [110, 11, 20],
 		"cities": ["Thisspias"]
@@ -3124,7 +3124,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255, 255, 212],
 		"innerColor": [206, 206, 206],
 		"cities": ["Chandrila"]
@@ -3138,7 +3138,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0, 149, 182],
 		"innerColor": [240, 227, 107],
 		"cities": ["Ryloth"]
@@ -3152,7 +3152,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Esseles"]
@@ -3166,7 +3166,7 @@
 
 		"declaringWar": "Chiba chiba sohpa.",
 		"attacked": "Pritka pritka",
-		"defeated": "Coatee-cha tu yub nub!"
+		"defeated": "Coatee-cha tu yub nub!",
 		"outerColor": [0,0,0],
 		"innerColor": [9, 82, 40],
 		"cities": ["Endor"]
@@ -3179,7 +3179,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Indupar"]
@@ -3192,7 +3192,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [178,190,190],
 		"innerColor": [32,147,172],
 		"cities": ["Council"]
@@ -3205,7 +3205,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Norat"]
@@ -3218,7 +3218,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Nouane"]
@@ -3232,7 +3232,7 @@
 
 		"declaringWar": "RRRrrruurgh! Arrggg!",
 		"attacked": "Grroooogrrraaaawrrrrrrrrmph.",
-		"defeated": "Mu waa waa."
+		"defeated": "Mu waa waa.",
 		"outerColor": [91, 60, 17],
 		"innerColor": [34, 120, 15],
 		"cities": ["Kashyyyk"]
@@ -3247,7 +3247,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [104, 94, 67],
 		"cities": ["Adumar"]
@@ -3261,7 +3261,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Anarris"]
@@ -3274,7 +3274,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Alsakan"]
@@ -3287,7 +3287,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Axum"]
@@ -3301,7 +3301,7 @@
 
 		"declaringWar": "Let this be a reminder of what happens when you cross the Bedlam Raiders.",
 		"attacked": "Hmm. The galaxy has changed. There are many wars, but little honor to be won from them.",
-		"defeated": "I've been waiting for this… for two hundred years!"
+		"defeated": "I've been waiting for this… for two hundred years!",
 		"outerColor": [0,0,0],
 		"innerColor": [167, 85, 2],
 		"cities": ["Koboh"]
@@ -3314,7 +3314,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Botor"]
@@ -3328,7 +3328,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Cadinth"]
@@ -3342,7 +3342,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [251,249,162],
 		"innerColor": [195,13,48],
 		"cities": ["Shiva"]
@@ -3356,7 +3356,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,0,0],
 		"innerColor": [0,0,0],
 		"cities": ["Cartann"]
@@ -3370,7 +3370,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Goroth"]
@@ -3384,7 +3384,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Concord Dawn"]
@@ -3398,7 +3398,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Prakith"]
@@ -3411,7 +3411,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [0,0,0],
 		"cities": ["Coruscant"]
@@ -3425,7 +3425,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [158,25,25],
 		"cities": ["Cularin"]
@@ -3438,7 +3438,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Cygnus"]
@@ -3451,7 +3451,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Daupherm"]
@@ -3464,7 +3464,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [20, 148, 20],
 		"innerColor": [223, 109, 20],
 		"cities": ["Eshan"]
@@ -3477,7 +3477,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Solitair"]
@@ -3490,7 +3490,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [82,156,167],
 		"innerColor": [216,217,185],
 		"cities": ["Grysk"]
@@ -3503,7 +3503,7 @@
 
 		"declaringWar": "You're a dead man.",
 		"attacked": "Your game is old. There's no one left in the galaxy for you to swindle.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [198, 8, 0],
 		"cities": ["Guavian Death Space"]
@@ -3516,7 +3516,7 @@
 		
 		"declaringWar": "Nothing can stop us now! The glory of the Hiromi is assured! Yaayyy!",
 		"attacked": "Let's hear it for not getting hurt!",
-		"defeated": "Perhaps the glorious destiny of the Hiromi would be best served if we were to strategically withdraw…at once!"
+		"defeated": "Perhaps the glorious destiny of the Hiromi would be best served if we were to strategically withdraw…at once!",
 		"outerColor": [182,164,217],
 		"innerColor": [240,191,54],
 		"cities": ["Hiromi"]
@@ -3530,7 +3530,7 @@
 
 		"declaringWar": "Insolence?!' We are pirates! We don't even know what that means. Open fire!",
 		"attacked": "You don't survive in the Outer Rim by being stupid!",
-		"defeated": "You are devious and deceitful and, most importantly, stupid."
+		"defeated": "You are devious and deceitful and, most importantly, stupid.",
 		"outerColor": [0,0,0],
 		"innerColor": [132, 46, 27],
 		"cities": ["Florrum"]
@@ -3544,7 +3544,7 @@
 
 		"declaringWar": "It is always an honor to test one's mettle against the best. By that I mean, an honor for you, of course. Not exactly much of a test for me.",
 		"attacked": "It is always an honor to test one's mettle against the best. By that I mean, an honor for you, of course. Not exactly much of a test for me.",
-		"defeated": "All right. All right. I suppose some of this is my fault."
+		"defeated": "All right. All right. I suppose some of this is my fault.",
 		"outerColor": [0,0,0],
 		"innerColor": [218, 179, 10],
 		"cities": ["Nar Kanji"]
@@ -3558,7 +3558,7 @@
 
 		"declaringWar": "Army or not, you must realize, you are doomed.",
 		"attacked": "You think you can defeat me? You’re nothing.",
-		"defeated": "Time to abandon ship."
+		"defeated": "Time to abandon ship.",
 		"outerColor": [0,0,0],
 		"innerColor": [157, 62, 12],
 		"cities": ["Kalee"]
@@ -3572,7 +3572,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0],
 		"cities": ["Kumauri"]
@@ -3585,7 +3585,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Lioaoin heartworld"]
@@ -3598,7 +3598,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255, 0, 127],
 		"cities": ["Lorell"]
@@ -3611,7 +3611,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Your people will die for this. Not just you. Not just your pitiable fleet. All the Chiss. The Ascendancy will die, shredded like grain, ground down like stone, burned like withered grass. Every last cub will die… and you will die here and now, with the certain knowledge that you and you alone were the root and cause of their destruction.",
-		"defeated": "It's amazing how the presence of Battle Dreadnoughts can smooth out a round of negotiations."
+		"defeated": "It's amazing how the presence of Battle Dreadnoughts can smooth out a round of negotiations.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Nikardun Destiny"]
@@ -3624,7 +3624,7 @@
 		
 		"declaringWar": "Allies? You have allies. All to me except the Chosen are mere tools. They can be useful tools, or they can be broken tools.",
 		"attacked": "Your cleverness is wasted. Once we've dealt with you, my fleet will travel to your homeworld and I will make you useful tools. Your time is ended. My ships are now in their places.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [0,0,255],
 		"cities": ["Oristrom"]
@@ -3638,7 +3638,7 @@
 
 		"declaringWar": "Some say that war is the beginning of civilization. On Onderon, this was certainly the case, though it was a civilization that took a very peculiar form.",
 		"attacked": "The people of Onderon are a warriors. Early in their history they built Iziz to protect them from the beasts that swarmed on their world. No matter how far they've progressed, they're fundamentally still warriors standing watch on their battlements.",
-		"defeated": "The Onderonians were certainly brave—but they were disorganized and stupid."
+		"defeated": "The Onderonians were certainly brave—but they were disorganized and stupid.",
 		"outerColor": [255, 255, 0],
 		"innerColor": [235, 0, 0],
 		"cities": ["Onderon"]
@@ -3653,7 +3653,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [159, 232, 85],
 		"cities": ["Paecia"]
@@ -3666,7 +3666,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "This is the Prince Militaire. You are trespassing within holy Paataatus space. Do you make threats against the Paataatus Hiveborn ?",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Nettehi"]
@@ -3679,7 +3679,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [190, 245, 116],
 		"cities": ["Predori"]
@@ -3692,7 +3692,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [107, 13, 13],
 		"cities": ["Maracavanya"]
@@ -3706,7 +3706,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [113,116,138],
 		"innerColor": [121,59,27],
 		"cities": ["Ando"]
@@ -3720,7 +3720,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [31,60,110],
 		"innerColor": [243,81,31],
 		"cities": ["Procopia"]
@@ -3734,7 +3734,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,0,0],
 		"cities": ["Rei'izu"]
@@ -3748,7 +3748,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [191,235,35],
 		"innerColor": [155,72,52],
 		"cities": ["Tof"]
@@ -3761,7 +3761,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Urch"]
@@ -3775,7 +3775,7 @@
 		
 		"declaringWar": "We are the Vagaari. We take what we want.",
 		"attacked": "I am the Miskara of the Vagaari people. […] You will address me as Your Eminence. I'm told you have the insolence to demand that I bargain with you.",
-		"defeated": "Speech is for drones and prey. The conversation of warriors is in their actions."
+		"defeated": "Speech is for drones and prey. The conversation of warriors is in their actions.",
 		"outerColor": [0, 86, 27],
 		"innerColor": [255, 215, 0],
 		"cities": ["Vagar Praxut"]
@@ -3789,7 +3789,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255,255,255],
 		"innerColor": [96, 96, 96],
 		"cities": ["Coldstone Canyon"]
@@ -3803,7 +3803,7 @@
 
 		"declaringWar": "There are so many terrible things that may happen to you, Brother. It is the burden you must bear.",
 		"attacked": "Woe be unto us!",
-		"defeated": "I cast the bones this morning and the portents were grave!"
+		"defeated": "I cast the bones this morning and the portents were grave!",
 		"outerColor": [44, 117, 255],
 		"innerColor": [121, 137, 51],
 		"cities": ["Maryx Minor"]
@@ -3817,7 +3817,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,255],
 		"innerColor": [88, 41, 0],
 		"cities": ["Glee Anselm"]
@@ -3830,7 +3830,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [44,74,64],
 		"innerColor": [226,26,39],
 		"cities": ["Argazda"]
@@ -3844,7 +3844,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [149, 86, 40],
 		"innerColor": [48, 48, 48],
 		"cities": ["Bosph"]
@@ -3858,7 +3858,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [118, 111, 100],
 		"innerColor": [0,0,0],
 		"cities": ["Triton"]
@@ -3872,7 +3872,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [237, 0, 0],
 		"cities": ["N'zoth"]
@@ -3886,7 +3886,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [47, 27, 12],
 		"cities": ["Bardotta"]
@@ -3900,7 +3900,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [110, 11, 20],
 		"cities": ["Wayland"]
@@ -3914,7 +3914,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [132, 132, 132],
 		"innerColor": [0,0,0],
 		"cities": ["Karlatt"]
@@ -3928,7 +3928,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Dolstan"]
@@ -3942,7 +3942,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [173, 79, 9],
 		"cities": ["Lwhekk"]
@@ -3955,7 +3955,7 @@
 
 		"declaringWar": "We serve the will of the Mystics. Our names will be joined forever in song",
 		"attacked": "No Voss is perfect. No Voss is above vision.",
-		"defeated": "The sky changes. War rages. Seasons pass. Voss die. Voss remains."
+		"defeated": "The sky changes. War rages. Seasons pass. Voss die. Voss remains.",
 		"outerColor": [0, 142, 142],
 		"innerColor": [96, 96, 96],
 		"cities": ["Voss"]
@@ -3969,7 +3969,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [223, 115, 255],
 		"cities": ["Zeffo"]
@@ -3983,7 +3983,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [87,123,120],
 		"innerColor": [254,251,239],
 		"cities": ["Alvorine"]
@@ -3997,7 +3997,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [96, 96, 96],
 		"innerColor": [255,255,255],
 		"cities": ["Cantonica"]
@@ -4010,7 +4010,7 @@
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 0, 0],
 		"cities": ["Erilnar"]
@@ -4023,7 +4023,7 @@
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [255,255,255],
 		"cities": ["Cloud City"]
@@ -4036,7 +4036,7 @@
 
 		"declaringWar": "Tonight we celebrate those fallen challengers of the past. And the great sacrifice they've made to make us all... rich!",
 		"attacked": "The Haxion Brood is gunning for ya.",
-		"defeated": "We never fully trusted you from the start."
+		"defeated": "We never fully trusted you from the start.",
 		"outerColor": [0,0,0],
 		"innerColor": [252, 93, 93],
 		"cities": ["Ordo Eris"]
