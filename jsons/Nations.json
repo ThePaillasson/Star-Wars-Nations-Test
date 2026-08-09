@@ -376,7 +376,7 @@
 		"tradeRequest": "Your path you must decide.",
 
 		"uniqueName": "There is no death, there is the Force",
-	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","When defeating a [Land] unit, earn [0] Gold and recruit it <with [20]% chance>"],
+	        "uniques": ["[+1 Faith, +2 Culture] [in all cities] <when not at war>","When defeating a [Land] unit, earn [5] Gold and recruit it <with [20]% chance>"],
 
 		"outerColor": [255,255,255],
 		"innerColor": [83,40,20],
@@ -3866,14 +3866,14 @@
 	},
 
 	{
-		"name": "Duskhan League",
+		"name": "Yevethan Theocracy",
 		"adjective": ["Yevetha"],
 		"cityStateType": "Religious",
 		"startBias": ["Desert"],
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this shall not be forgotten.",
-		"defeated": "We never fully trusted you from the start.",
+		"declaringWar": "Soon I shall join my people. Soon the Yevetha shall be no more. But we shall not go down quietly.",
+		"attacked": "You have never faced an adversary like us. Your wars are decided by the death of a tenth of a population, a third of an army. Then the defeated surrender their honor and the victors surrender their advantage. This is called being civilized. The Yevetha are not civilized, General. It would be a mistake to deal with us as though we were.",
+		"defeated": "Because you would become our obsession, for as many years as it took to destroy you.",
 		"outerColor": [0,0,0],
 		"innerColor": [237, 0, 0],
 		"cities": ["N'zoth"]
