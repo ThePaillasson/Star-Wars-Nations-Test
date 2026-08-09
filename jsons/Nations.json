@@ -3978,7 +3978,7 @@
 	{
 		"name": "Alvorine Authority",
 		"adjective": ["Alvorine"],
-		"cityStateType": "Tourist",
+		"cityStateType": "Mercantile",
 		"startBias": ["Jungle"],
 
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -3992,7 +3992,7 @@
 	{
 		"name": "Canto Bight legislative body",
 		"adjective": ["Cantonican"],
-		"cityStateType": "Tourist",
+		"cityStateType": "Mercantile",
 		"startBias": ["Coast"],
 		
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -4006,7 +4006,7 @@
 	{
 		"name": "Centrality",
 		"adjective": ["Centrality"],
-		"cityStateType": "Tourist",
+		"cityStateType": "Mercantile",
 		
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -4019,7 +4019,7 @@
 	{
 		"name": "Cloud City",
 		"adjective": ["Bespinite"],
-		"cityStateType": "Tourist",
+		"cityStateType": "Mercantile",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -4032,7 +4032,7 @@
 	{
 		"name": "Haxion Brood",
 		"adjective": ["Haxion"],
-		"cityStateType": "Tourist",
+		"cityStateType": "Militaristic",
 
 		"declaringWar": "Tonight we celebrate those fallen challengers of the past. And the great sacrifice they've made to make us all... rich!",
 		"attacked": "The Haxion Brood is gunning for ya.",
