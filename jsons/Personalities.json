@@ -21,5 +21,66 @@
       "Autocracy": 8,
       "Order": 7
     }
+    "civilopediaText": [
+      {
+        "text": "Emperor Sheev Palpatine, in reality the powerful Sith Lord Darth Sidious, ruled the entire Galaxy for 23 years at the head of the Empire he proclaimed following the Galactic Republic at the end of the Clone Wars."
+      }
+    ]
+  },
+  {
+    "name": "Skal'nas",
+    "military": 6,
+    "Agressive": 8,
+    "War": 6,
+    "commerce": 4,
+    "diplomacy": 2,
+    "loyal": 2,
+    "expansion": 7,
+    "DenounceWillingness": 2,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 4,
+      "Honor": 4,
+      "Commerce": 3,
+      "Patronage": 3,
+      "Piety": 4,
+      "Rationalism": 4,
+      "Freedom": 3,
+      "Autocracy": 6,
+      "Order": 4
+    }
+    "civilopediaText": [
+      {
+        "text": "The Predator Skal'nas is a military leader renowned even among the Rakatas for his cruelty and tendency towards betrayal."
+      }
+    ]
+  },
+  {
+    "name": "Grand Master Yoda",
+    "military": 3,
+    "Agressive": 3,
+    "War": 2,
+    "commerce": 4,
+    "diplomacy": 7,
+    "loyal": 6,
+    "expansion": 4,
+    "DenounceWillingness": 7,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 4,
+      "Honor": 5,
+      "Commerce": 3,
+      "Patronage": 5,
+      "Piety": 6,
+      "Rationalism": 5,
+      "Freedom": 3,
+      "Autocracy": 3,
+      "Order": 4
+    }
+    "civilopediaText": [
+      {
+        "text": "Belonging to a mysterious species, Yoda, Grand Master of the Jedi Order, is one of the most respected members of his Order, often considered the embodiment of the ideal Jedi due to his respect for all forms of life and his desire to preserve peace and good throughout the Galaxy."
+      }
+    ]
   }
 ]
