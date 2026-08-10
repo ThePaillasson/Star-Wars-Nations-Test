@@ -11,13 +11,13 @@
     "DenounceWillingness": 3,
     "priorities": {
       "Tradition": 6,
-      "Liberty": 2,
+      "Liberty": 3,
       "Honor": 4,
       "Commerce": 5,
       "Patronage": 4,
       "Piety": 5,
       "Rationalism": 6,
-      "Freedom": 2,
+      "Freedom": 3,
       "Autocracy": 8,
       "Order": 7
     }
@@ -45,7 +45,7 @@
       "Patronage": 3,
       "Piety": 4,
       "Rationalism": 4,
-      "Freedom": 3,
+      "Freedom": 2,
       "Autocracy": 6,
       "Order": 4
     }
@@ -68,12 +68,12 @@
     "priorities": {
       "Tradition": 7,
       "Liberty": 4,
-      "Honor": 5,
+      "Honor": 6,
       "Commerce": 3,
       "Patronage": 5,
-      "Piety": 6,
+      "Piety": 7,
       "Rationalism": 5,
-      "Freedom": 3,
+      "Freedom": 5,
       "Autocracy": 3,
       "Order": 4
     }
@@ -82,5 +82,89 @@
         "text": "Belonging to a mysterious species, Yoda, Grand Master of the Jedi Order, is one of the most respected members of his Order, often considered the embodiment of the ideal Jedi due to his respect for all forms of life and his desire to preserve peace and good throughout the Galaxy."
       }
     ]
-  }
+  },
+  {
+    "name": "Jabba Desilijic Tiure",
+    "military": 3,
+    "Agressive": 4,
+    "War": 4,
+    "commerce": 5,
+    "diplomacy": 6,
+    "loyal": 5,
+    "expansion": 6,
+    "DenounceWillingness": 4,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 4,
+      "Honor": 5,
+      "Commerce": 6,
+      "Patronage": 3,
+      "Piety": 3,
+      "Rationalism": 5,
+      "Freedom": 6,
+      "Autocracy": 4,
+      "Order": 2
+    }
+    "civilopediaText": [
+      {
+        "text": "Jabba Desilijic Tiure, nicknamed Jabba the Hutt, is one of the most powerful gangsters in the Outer Rim, dominating the criminal underworld of the planet Tatooine as one of the most important leaders of the Hutt Cartel."
+      }
+    ]
+  },
+  {
+    "name": "Xim the Despot",
+    "military": 6,
+    "Agressive": 6,
+    "War": 5,
+    "commerce": 4,
+    "diplomacy": 3,
+    "loyal": 4,
+    "expansion": 5,
+    "DenounceWillingness": 3,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 4,
+      "Honor": 6,
+      "Commerce": 4,
+      "Patronage": 3,
+      "Piety": 2,
+      "Rationalism": 5,
+      "Freedom": 4,
+      "Autocracy": 8,
+      "Order": 6
+    }
+    "civilopediaText": [
+      {
+        "text": "Xim, son of Xer, was the tyrannical ruler of his own empire built through his conquests in the Tion Cluster decades before the rise of the Galactic Republic."
+      }
+    ]
+  },
+  {
+    "name": "Mandalore the Ultimate",
+    "military": 7,
+    "Agressive": 6,
+    "War": 6,
+    "commerce": 3,
+    "diplomacy": 3,
+    "loyal": 5,
+    "expansion": 5,
+    "DenounceWillingness": 5,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 5,
+      "Honor": 8,
+      "Commerce": 4,
+      "Patronage": 2,
+      "Piety": 3,
+      "Rationalism": 4,
+      "Freedom": 5,
+      "Autocracy": 5,
+      "Order": 4
+    }
+    "civilopediaText": [
+      {
+        "text": "One of the last Taung to claim the title of Mandalore, Mandalore the Ultimate is the founder of the Mandalorian Neo-Crusaders who sought to end the decadence of Mandalorian military traditions and reunify the Mandalorian clans to lead them against the Galactic Republic in the Mandalorian Wars."
+      }
+    ]
+  },
 ]
