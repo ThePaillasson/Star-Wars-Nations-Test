@@ -2,12 +2,12 @@
   {
     "name": "Emperor Palpatine",
     "military": 8,
-    "Agressive": 8,
+    "Agressive": 6,
     "War": 4,
     "commerce": 6,
     "diplomacy": 4,
     "loyal": 2,
-    "expansion": 6,
+    "expansion": 8,
     "DenounceWillingness": 3,
     "priorities": {
       "Tradition": 6,
