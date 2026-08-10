@@ -1,6 +1,13 @@
 [
   {
     "name": "Emperor Palpatine",
+    "production": 6,
+    "food": 5,
+    "gold": 6,
+    "science": 5,
+    "culture": 4,
+    "happiness": 3,
+    "faith": 3,
     "military": 8,
     "Agressive": 6,
     "War": 4,
