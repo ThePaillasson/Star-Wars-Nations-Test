@@ -747,6 +747,7 @@
 		"leaderName": "Darth Revan",
 		"adjective": ["Sith"],
 		"startBias": ["Desert"],
+		"personality": "Darth Revan",
 		"preferredVictoryType": "Domination",
 
 		
@@ -910,6 +911,7 @@
 		"leaderName": "Count Dooku",
 		"adjective": ["Separatist"],
 		"startBias": ["Plains"],
+		"personality": "Count Dooku",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "It is an honor to stand before you, for you represent the freedom and the future of our galaxy. The once-great Republic and Jedi Order have become victims of their own ambitions, and the Supreme Chancellor is no more than a pawn of corporate monopolies.",
@@ -985,6 +987,7 @@
 		"leaderName": "Mon Mothma",
 		"adjective": ["Rebel"],
 		"startBias": ["Jungle"],
+		"personality": "Mon Mothma",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "We, the Rebel Alliance, do therefore in the name—and by the authority—of the free beings of the Galaxy, solemnly publish and declare our intentions:",
@@ -1135,6 +1138,7 @@
 		"leaderName": "Shimrra Jamaane",
 		"adjective": ["Yuuzhan Vong"],
 		"startBias": ["Jungle"],
+		"personality": "Shimrra Jamaane",
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "This is not about your little planet. We will take your whole galaxy. We will destroy your machines; they are an abomination.",
@@ -1340,6 +1344,7 @@
 		"leaderName": "Valkorion the Immortal Emperor",
 		"adjective": ["Zakuulan"],
 		"startBias": ["Grassland"],
+		"personality": "Valkorion the Immortal Emperor",
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Look around you. Zakuul is poised to become the greatest civilization in the history of the galaxy.",
@@ -1389,6 +1394,7 @@
 		"leaderName": "Mitth'raw'nuruodo",
 		"adjective": ["Chiss"],
 		"startBias": ["Tundra"],
+		"personality": "Mitth'raw'nuruodo",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "The Chiss must be approached from a position of strength and respect.",
