@@ -1675,6 +1675,7 @@
 		"leaderName": "Wat Tambor",
 		"adjective": ["Techno Union"],
 		"startBias": ["Jungle"],
+		"personality": "Wat Tambor",
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "He is the Separatists' Techno Union Foreman, as well as a combat engineer. A brilliant strategist.",
@@ -1728,13 +1729,14 @@
 		"leaderName": "Prince Xizor",
 		"adjective": ["Black Sun"],
 		"startBias": ["Avoid [Grassland]"],
+		"personality": "Prince Xizor",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "It is a vast criminal syndicate…its influence felt on every planet from the Core Worlds to the Outer Rim. Black Sun has existed for hundreds of years, and embedded itself in the very fiber of the galaxy.",
 		"startIntroPart2": "The resources at its disposal are almost limitless. The soldiers under its command number in the tens of thousands. The ignorant even call it the most powerful force in the known universe.",
 		"declaringWar": "You see, to contend with Xizor is to lose.",
 		"attacked": "It'll be your funeral.",
-		"defeated": "If you cannot afford to lose, you should not play the game.",
+		"defeated": "Everyone hates Black Sun.",
 		"introduction": "Prince Xizor of House Sizhran. Black Sun captain.",
 		
 		"neutralHello": "Hello.",
@@ -1744,7 +1746,7 @@
 
 		"hateHello": "Hello.",
 		"hateLetsHearIt": ["Speak."],
-		"hateNo": ["Everyone hates Black Sun."],
+		"hateNo": ["If you cannot afford to lose, you should not play the game."],
 		"hateYes": ["After careful consideration, we will join you."],
 		
 		"afterPeace": "Every atom of my being is at your command.",
@@ -1779,6 +1781,7 @@
 		"leaderName": "Shu Mai",
 		"adjective": ["Commerce Guild"],
 		"startBias": ["Jungle"],
+		"personality": "Shu Mai",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "On the ruins of the old, decrepit Republic those of us with foresight will build a new political structure, perfect and gleaming.",
@@ -1798,11 +1801,11 @@
 		"hateNo": ["What you are proposing could be construed as treason."],
 		"hateYes": ["We, the Commerce Guild, are always eager to take advantage of shifting political realities."],
 
+        "afterPeace": "I have all of our best interests at heart.",
+		"tradeRequest": "I have all of our best interests at heart.",
+		
 		"uniqueName": "Mining conglomerate",
 	        "uniques": ["[+1 Gold] from each Trade Route","[-20]% construction time for [All] improvements","[+1 Production] from every [Mine]"],
-		
-		"afterPeace": "I have all of our best interests at heart.",
-		"tradeRequest": "I have all of our best interests at heart.",
 		
 		"outerColor": [4,107,214],
 		"innerColor": [102,219,2],
@@ -1825,6 +1828,7 @@
 		"leaderName": "San Hill",
 		"adjective": ["InterGalactic Banking Clan"],
 		"startBias": ["Tundra"],
+		"personality": "San Hill",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "May there be prosperity and stability in all our lands! May our people be free and safe! Long live the banks!",
@@ -1869,6 +1873,7 @@
 		"leaderName": "Passel Argente",
 		"adjective": ["Corporate Alliance"],
 		"startBias": ["Coast"],
+		"personality": "Passel Argente",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "The Corporate Alliance controls everything!",
@@ -1910,6 +1915,7 @@
 		"leaderName": "Lom Pyke",
 		"adjective": ["Pyke"],
 		"startBias": ["Hill"],
+		"personality": "Lom Pyke",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "A powerful part of the spice cartel. Their criminal activities had allowed them to almost completely control the production of raw spice, used to create a powerful drug.",
@@ -3020,6 +3026,20 @@
 		"innerColor": [0,0,0],
 		"cities": ["Oba Diah"]
 	},
+
+	{
+		"name": "Retail Caucus",
+		"adjective": ["Kerkoidian"],
+		"cityStateType": "Mercantile",
+		"startBias": ["Marsh"],
+
+		"declaringWar": "You are no longer in the Republic. You are no longer beholden to their laws. Yer world's resources will be transferred to the Confederacy. We wage this war for yer independence. Do not resist our efforts. Remain vigilant for Republic reprisals.",
+		"attacked": "Unless you call off your troops right now, I will have no choice but to destroy you.",
+		"defeated": "Have you gone mad?",
+		"outerColor": [0,0,85],
+		"innerColor": [255,215,0],
+		"cities": ["Kerkoidia"]
+	},
 	
 	{
 		"name": "Toydarian Monarchy",
@@ -3060,20 +3080,6 @@
 		"outerColor": [0,0,0],
 		"innerColor": [247, 226, 105],
 		"cities": ["Jakuu"]
-	},
-
-	{
-		"name": "Zygerrian Slave Empire",
-		"adjective": ["Zygerrian"],
-		"cityStateType": "Mercantile",
-		"startBias": ["Plains"],
-
-		"declaringWar": "My queen is going to bring back the royal slave auction as in the days before. Zygerria will be rich and powerful again.",
-		"attacked": "Slavery is the natural order of things. The weak deserve nothing more than to kneel before the strong, bound to our service.",
-		"defeated": "For thousands of years, Zygerria supplied slave labor to the galaxy. We prospered. Our customers prospered. Then you came.",
-		"outerColor": [0,0,0],
-		"innerColor": [255, 0, 127],
-		"cities": ["Zygerria"]
 	},
 
 	{
