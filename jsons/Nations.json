@@ -464,6 +464,7 @@
 		"leaderName": "Jabba Desilijic Tiure",
 		"adjective": ["Hutt"],
 		"startBias": ["Marsh"],
+		"personality": "Jabba Desilijic Tiure",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Rejoice, wretched creatures. Your planet is now the property of the glorious Hutt Cartel.",
@@ -554,6 +555,7 @@
 		"leaderName": "Xim the Despot",
 		"adjective": ["Tionese"],
 		"startBias": ["Plains"],
+		"personality": "Xim the Despot",
 		"preferredVictoryType": "Domination",
 
 		
@@ -658,6 +660,7 @@
 		"leaderName": "Mandalore the Ultimate",
 		"adjective": ["Mandalorian"],
 		"startBias": ["Avoid [Tundra]"],
+		"personality": "Xim the Despot",
 		"preferredVictoryType": "Domination",
 
 		
@@ -2996,7 +2999,7 @@
 	},
 
 	{
-		"name": "Pyke Syndicate",
+		"name": "Pyke Family",
 		"adjective": ["Pyke"],
 		"cityStateType": "Mercantile",
 		"startBias": ["Desert"],
