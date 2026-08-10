@@ -4,6 +4,7 @@
 		"leaderName": "Emperor Palpatine",
 		"adjective": ["Imperial"],
 		"startBias": ["Plains"],
+		"personality": "Emperor Palpatine",
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "The Dark Side of the Force is a pathway to many abilities some consider to be unnatural.",
