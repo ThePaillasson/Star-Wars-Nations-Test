@@ -1457,9 +1457,10 @@
 	},
 	{
 		"name": "Hapes Consortium",
-		"leaderName": "Tenel Ka Ta'a Chume Djo",
+		"leaderName": "Tenel Ka Djo",
 		"adjective": ["Hapan"],
 		"startBias": ["Forest"],
+		"personality": "Tenel Ka Djo",
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "The Hapes Cluster was originally settled by pirates, a group called the Lorell Raiders.",
@@ -1530,6 +1531,7 @@
 		"leaderName": "ExO",
 		"adjective": ["CSA"],
 		"startBias": ["Plains"],
+		"personality": "ExO",
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "The Corporate Sector wasn't always what it is today. Back in the old days it was simply a place where businesses could go and make a few credits without too many bureaucrats getting into the act. As an enterprising businessman, I can appreciate that kind of setup.",
@@ -1611,6 +1613,7 @@
 		"leaderName": "Nute Gunray",
 		"adjective": ["Trade Federation"],
 		"startBias": ["Hill"],
+		"personality": "Nute Gunray",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "I believe in the idea of the Trade Federation. When the Republic fails to recognize your homeworld as anything but an asset in shipping and commerce, you become a commodity. And a statistic. I'll not let my life be a line item in a shipping manifest.",
@@ -1625,7 +1628,7 @@
 		"neutralNo": ["What? What did you say?"],
 		"neutralYes": ["I am a man of great wealth, and I can be very generous to my allies."],
 
-		"hateHello": "This is getting out of hand! Now, there are two of them!	",
+		"hateHello": "This is getting out of hand! Now, there are two of them!",
 		"hateLetsHearIt": ["This is getting out of hand! Now, there are two of them!"],
 		"hateNo": ["This is outrageous! I object to your statements."],
 		"hateYes": ["I never risk my own skin if I don't have to."],
