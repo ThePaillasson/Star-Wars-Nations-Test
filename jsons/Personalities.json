@@ -1,0 +1,37 @@
+[
+{
+    "name": "Emperor Palpatine",
+    "culture": 4,
+    "faith": 4,
+    "food": 2,
+    "gold": 4,
+    "happiness": 2,
+    "production": 6,
+    "science": 6,
+    "military": 8,
+    "aggressive": 8,
+    "declareWar": 4,
+    "commerce": 6,
+    "diplomacy": 4,
+    "loyal": 2,
+    "expansion": 6,
+    "denounceWillingness": ,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 2,
+      "Honor": 4,
+      "Commerce": 5,
+      "Patronage": 4,
+      "Piety": 5,
+      "Rationalism": 6,
+      "Freedom": 2,
+      "Autocracy": 8,
+      "Order": 7
+    },
+    "civilopediaText": [
+      {
+        "text": "Emperor Sheev Palpatine, also known as the Sith Lord Darth Sidious, ruled the entire Galaxy for 23 years at the head of his Empire, which he formed as a replacement for the millennia-old Galactic Republic at the end of the Clone Wars."
+      }
+    ]
+  }
+]
