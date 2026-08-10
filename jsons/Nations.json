@@ -261,6 +261,7 @@
 		"leaderName": "Skal'nas",
 		"adjective": ["Rakatan"],
 		"startBias": ["Coast"],
+		"personality": "Skal'nas",
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "The Rakata are a pestilence upon the galaxy that, to their shame, the Kwa, unleashed.",
@@ -353,6 +354,7 @@
 		"leaderName": "Grand Master Yoda",
 		"adjective": ["Jedi"],
 		"startBias": ["Grassland"],
+		"personality": "Grand Master Yoda",
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Size matters not. Look at me. Judge me by my size, do you? Hmm? Hmm. And well you should not.",
