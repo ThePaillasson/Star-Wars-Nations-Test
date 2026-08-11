@@ -1,0 +1,50 @@
+name: Generate Unciv Atlas
+
+on:
+  push:
+    branches: [ "master" ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-atlas:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Télécharger le mod
+        uses: actions/checkout@v4
+
+      - name: Installer Java
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: Télécharger Unciv
+        run: |
+          unciv_url=$(curl -s https://api.github.com/repos/yairm210/Unciv/releases/latest | grep -o "http.*Unciv.jar" | head -1)
+          wget -q -O Unciv.jar "$unciv_url"
+
+      - name: Générer les atlas
+        run: |
+          java -jar Unciv.jar mod-ci
+
+      - name: Supprimer Unciv
+        run: |
+          rm Unciv.jar
+
+      - name: Enregistrer les atlas
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "Aucune modification à enregistrer."
+          else
+            git commit -m "Generate Unciv texture atlas"
+            git push
+          fi
