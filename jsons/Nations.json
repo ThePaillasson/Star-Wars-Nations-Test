@@ -1959,6 +1959,7 @@
 		"leaderName": "Tyber Zann",
 		"adjective": ["Zann"],
 		"startBias": ["Plains"],
+		"personality": "Tyber Zann",
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "I am Tyber Zann. Corruption is my weapon. And while the galaxy is distracted by civil war, I will strike.",
@@ -2000,24 +2001,25 @@
 		"leaderName": "Miraj Scintel",
 		"adjective": ["Zygerrian"],
 		"startBias": ["Plains"],
+		"personality": "Miraj Scintel",
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Zygerrians, you say? No stranger to them am I. Thrived on Outer Rim slave trade for centuries did the Zygerrian civilization. Moved from system to system, abducting primitive beings for profit—even into the systems of the Republic.",
 		"startIntroPart2": "When ordered to cease, resist did the Zygerrians. Crushed their empire of bondage did the Jedi.",
 		"declaringWar": "My queen is going to bring back the royal slave auction as in the days before the Jedi. Zygerria will be rich and powerful again.",
-		"attacked": "For thousands of years, Zygerria has provided slave labor to the galaxy. We prospered. Our customers have prospered. Then you arrived.",
-		"defeated": "You were right. I am a slave, just as you are.",
+		"attacked": "Slavery is the natural order of things. The weak deserve nothing more than to kneel before the strong, bound to our service.",
+		"defeated": "For thousands of years, Zygerria has provided slave labor to the galaxy. We prospered. Our customers have prospered. Then you arrived.",
 		"introduction": "Slavery is the natural order of things. The weak deserve nothing more than to kneel before the strong, bound to our service.",
 		
 		"neutralHello": "Zygerria will be rich and powerful again.",
 		"neutralLetsHearIt": ["Zygerria will be rich and powerful again."],
 		"neutralNo": ["No."],
-		"neutralYes": ["yes."],
+		"neutralYes": ["You were right. I am a slave, just as you are."],
 
 		"hateHello": "Slavery is the natural order of things.",
 		"hateLetsHearIt": ["Slavery is the natural order of things."],
 		"hateNo": ["No."],
-		"hateYes": ["yes."],
+		"hateYes": ["You were right. I am a slave, just as you are."],
 		
 		"afterPeace": "Zygerria will be rich and powerful again.",
 		"tradeRequest": "Slavery is the natural order of things.",
