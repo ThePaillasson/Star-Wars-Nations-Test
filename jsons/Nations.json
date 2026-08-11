@@ -2045,6 +2045,7 @@
 		"leaderName": "Nil Spaar",
 		"adjective": ["Yevetha"],
 		"startBias": ["Desert"],
+		"personality": "Nil Spaar",
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Our claim to these stars is natural and ancient. Our eyes have owned them since the beginning of our days. They are alive in our legends. They call to us in our dreams. We draw our strength from the All. The purity of the All inspires us to perfection.",
@@ -2095,7 +2096,8 @@
 		"leaderName": "Rokak'k",
 		"adjective": ["Gree"],
 		"startBias": ["Plains"],
-		"preferredVictoryType": "Cultural",
+		"personality": "Rokak'k",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "I know you're familiar with the ancient Rakata Infinite Empire. These people predate them by eons.",
 		"startIntroPart2": "Even though the Gree have been gone for millennia, technology that old might as well be ten thousand years ahead of us instead of ten thousand behind. It's obscure. Arcane. Not to be touched.",
@@ -2137,6 +2139,7 @@
 		"leaderName": "Qymaen jai Sheelal",
 		"adjective": ["Kaleesh"],
 		"startBias": ["Avoid [Coast]"],
+		"personality": "Qymaen jai Sheelal",
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Jedi! You are surrounded, your army is decimated. Make peace with the Force now…for this is your final hour. But know that I, General Grievous, am not completely without mercy. I will grant you a warrior's death. Prepare!",
@@ -2179,6 +2182,7 @@
 		"leaderName": "Admiral Trench",
 		"adjective": ["Aqualish"],
 		"startBias": ["Coast"],
+		"personality": "Admiral Trench",
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Turn back now. Retreat while you can, for I am your doom.",
@@ -2220,6 +2224,7 @@
 		"leaderName": "UnuThul",
 		"adjective": ["Killik"],
 		"startBias": ["Grassland"],
+		"personality": "UnuThul",
 		"preferredVictoryType": "Cultured",
 		
 		"startIntroPart1": "The Killiks are tied to the history of the galaxy in a way we don't understand yet. They were living in cities before humans learned to build, and they were a civilization before the Sith were spawned. They were here when Centerpoint and the Maw were constructed-and they were driven from Alderaan by the beings who did it.",
@@ -2280,6 +2285,7 @@
 		"leaderName": "Thrackan Sal-Solo",
 		"adjective": ["Confederation"],
 		"startBias": ["Forest"],
+		"personality": "Thrackan Sal-Solo",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "I know that. I don’t like it, but I can see it. Could see it the day Palpatine and Darth Vader died. All over. But Palpatine’s New Order, the Imperial system—that we can bring back, at least here. Just no Emperor over the Diktat. No one telling the Corellian Sector what to do. In-de-pen-dent. Just us here, putting the aliens back in their place.",
@@ -2355,6 +2361,7 @@
 		"leaderName": "Maul",
 		"adjective": ["Crimson Dawn"],
 		"startBias": ["Mountain"],
+		"personality": "Thrackan Sal-Solo",
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "The Sith took everything from me. Ripped me from my mother's arms, murdered my brother, used me as a weapon and then cast me aside. Abandoned me. Once, I had power, now I have nothing. Nothing.",
