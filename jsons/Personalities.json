@@ -804,4 +804,249 @@
       }
     ]
   },
+  {
+    "name": "Nil Spaar",
+    "production": 4,
+    "food": 5,
+    "gold": 4,
+    "science": 3,
+    "culture": 4,
+    "happiness": 4,
+    "faith": 8,
+    "military": 6,
+    "Agressive": 8,
+    "War": 6,
+    "commerce": 4,
+    "diplomacy": 4,
+    "loyal": 3,
+    "expansion": 6,
+    "DenounceWillingness": 6,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 3,
+      "Honor": 4,
+      "Commerce": 4,
+      "Patronage": 4,
+      "Piety": 8,
+      "Rationalism": 3,
+      "Freedom": 3,
+      "Autocracy": 7,
+      "Order": 5
+    }
+    "civilopediaText": [
+      {
+        "text": "Darama and Chose One of the Yevetha people, Nil Spaar is the supreme and totalitarian leader of the Duskhan League. Convinced of his race's superiority, he plots to exterminate all other species and take control of the stars."
+      }
+    ]
+  },
+  {
+    "name": "Rokak'k",
+    "production": 5,
+    "food": 5,
+    "gold": 4,
+    "science": 7,
+    "culture": 5,
+    "happiness": 5,
+    "faith": 3,
+    "military": 4,
+    "Agressive": 3,
+    "War": 3,
+    "commerce": 5,
+    "diplomacy": 6,
+    "loyal": 5,
+    "expansion": 4,
+    "DenounceWillingness": 6,
+    "priorities": {
+      "Tradition": 4,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 5,
+      "Patronage": 6,
+      "Piety": 3,
+      "Rationalism": 7,
+      "Freedom": 3,
+      "Autocracy": 3,
+      "Order": 4
+    }
+    "civilopediaText": [
+      {
+        "text": "Commander of the transport ship Rokak'K Baran, Rokak'k is a highly influential Gree master, aware that his ship is essential to the survival of a declining Gree Empire."
+      }
+    ]
+  },
+  {
+    "name": "Qymaen jai Sheelal",
+    "production": 4,
+    "food": 5,
+    "gold": 4,
+    "science": 3,
+    "culture": 6,
+    "happiness": 4,
+    "faith": 6,
+    "military": 6,
+    "Agressive": 7,
+    "War": 4,
+    "commerce": 5,
+    "diplomacy": 4,
+    "loyal": 6,
+    "expansion": 5,
+    "DenounceWillingness": 5,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 5,
+      "Honor": 7,
+      "Commerce": 3,
+      "Patronage": 3,
+      "Piety": 6,
+      "Rationalism": 4,
+      "Freedom": 4,
+      "Autocracy": 3,
+      "Order": 3
+    }
+    "civilopediaText": [
+      {
+        "text": "Before becoming the infamous cyborg general Grievous, Qymaen jai Sheelal was the leader of a Kaleesh clan who fought bravely and brutally against the Huks who had invaded his homeworld. The Jedi's intervention on the Huks' behalf is the source of his hatred for the Jedi Order and the Galactic Republic."
+      }
+    ]
+  },
+  {
+    "name": "Admiral Trench",
+    "production": 5,
+    "food": 5,
+    "gold": 4,
+    "science": 3,
+    "culture": 4,
+    "happiness": 3,
+    "faith": 3,
+    "military": 7,
+    "Agressive": 6,
+    "War": 6,
+    "commerce": 5,
+    "diplomacy": 4,
+    "loyal": 5,
+    "expansion": 6,
+    "DenounceWillingness": 6,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 4,
+      "Honor": 7,
+      "Commerce": 4,
+      "Patronage": 3,
+      "Piety": 3,
+      "Rationalism": 4,
+      "Freedom": 3,
+      "Autocracy": 7,
+      "Order": 5
+    }
+    "civilopediaText": [
+      {
+        "text": "A talented and self-assured admiral, the proud Harch Trench had first served in the navy of Spiverelda, the totalitarian government of Ando, ​​during its war against the secessionist worlds of the Andoan Free Colonies, before joining the separatist fleet."
+      }
+    ]
+  },
+  {
+    "name": "UnuThul",
+    "production": 6,
+    "food": 7,
+    "gold": 4,
+    "science": 3,
+    "culture": 3,
+    "happiness": 2,
+    "faith": 3,
+    "military": 6,
+    "Agressive": 6,
+    "War": 5,
+    "commerce": 4,
+    "diplomacy": 4,
+    "loyal": 3,
+    "expansion": 5,
+    "DenounceWillingness": 3,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 3,
+      "Honor": 4,
+      "Commerce": 4,
+      "Patronage": 3,
+      "Piety": 4,
+      "Rationalism": 4,
+      "Freedom": 3,
+      "Autocracy": 7,
+      "Order": 7
+    }
+    "civilopediaText": [
+      {
+        "text": "After being taken in by the Killiks, the Jedi Raynar Thul unwittingly became their leader under the name UnuThul."
+      }
+    ]
+  },
+  {
+    "name": "Thrackan Sal-Solo",
+    "production": 7,
+    "food": 5,
+    "gold": 6,
+    "science": 4,
+    "culture": 4,
+    "happiness": 3,
+    "faith": 2,
+    "military": 6,
+    "Agressive": 5,
+    "War": 5,
+    "commerce": 6,
+    "diplomacy": 5,
+    "loyal": 4,
+    "expansion": 5,
+    "DenounceWillingness": 6,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 4,
+      "Honor": 4,
+      "Commerce": 6,
+      "Patronage": 5,
+      "Piety": 3,
+      "Rationalism": 4,
+      "Freedom": 3,
+      "Autocracy": 5,
+      "Order": 7
+    }
+    "civilopediaText": [
+      {
+        "text": "A xenophobic and ultranationalist cousin of Han Solo, Thrackan Sal-Solo is a fierce advocate for Corellia's independence from a human-centric and imperial regime and has even managed to seize power on his home planet on three occasions."
+      }
+    ]
+  },
+  {
+    "name": "Maul",
+    "production": 5,
+    "food": 4,
+    "gold": 7,
+    "science": 4,
+    "culture": 5,
+    "happiness": 3,
+    "faith": 6,
+    "military": 6,
+    "Agressive": 7,
+    "War": 4,
+    "commerce": 6,
+    "diplomacy": 5,
+    "loyal": 4,
+    "expansion": 6,
+    "DenounceWillingness": 4,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 5,
+      "Honor": 5,
+      "Commerce": 6,
+      "Patronage": 4,
+      "Piety": 6,
+      "Rationalism": 4,
+      "Freedom": 3,
+      "Autocracy": 7,
+      "Order": 6
+    }
+    "civilopediaText": [
+      {
+        "text": "A former apprentice of the Sith Lord Darth Sidious, Maul, after being abandoned by him, sought revenge by accumulating large amounts of wealth and power through criminal organizations like Crimson Dawn."
+      }
+    ]
+  },
 ]
