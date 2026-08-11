@@ -1,0 +1,202 @@
+
+game.png
+size: 2048, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/Alliance to Restore the Republic
+  rotate: false
+  xy: 162, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Aqualish Spiverelda
+  rotate: false
+  xy: 270, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Black Sun
+  rotate: false
+  xy: 4, 62
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+NationIcons/Chiss Ascendancy
+  rotate: false
+  xy: 378, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Commerce Guild
+  rotate: false
+  xy: 486, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Confederacy of Independent Systems
+  rotate: false
+  xy: 594, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Corellian Confederation
+  rotate: false
+  xy: 702, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Corporate Alliance
+  rotate: false
+  xy: 810, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Corporate Sector Authority
+  rotate: false
+  xy: 918, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Crimson Dawn
+  rotate: false
+  xy: 1026, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Duskhan League
+  rotate: false
+  xy: 1134, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Eternal Empire of Zakuul
+  rotate: false
+  xy: 1242, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Galactic Empire
+  rotate: false
+  xy: 1350, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hapes Consortium
+  rotate: false
+  xy: 1458, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hutt Cartel
+  rotate: false
+  xy: 1566, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Infinite Empire
+  rotate: false
+  xy: 1674, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/InterGalactic Banking Clan
+  rotate: false
+  xy: 1782, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Jedi Order
+  rotate: false
+  xy: 1890, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kolkpravis Clan
+  rotate: false
+  xy: 162, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Mandalorians
+  rotate: false
+  xy: 270, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Pyke Syndicate
+  rotate: false
+  xy: 378, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sith Order
+  rotate: false
+  xy: 486, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Techno Union
+  rotate: false
+  xy: 594, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Trade Federation of Planets
+  rotate: false
+  xy: 702, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Xim's Empire
+  rotate: false
+  xy: 810, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Yuuzhan Vong Empire
+  rotate: false
+  xy: 918, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Zann Consortium
+  rotate: false
+  xy: 1026, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Zygerrian Slave Empire
+  rotate: false
+  xy: 1134, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
