@@ -465,7 +465,7 @@
 		"adjective": ["Hutt"],
 		"startBias": ["Marsh"],
 		"personality": "Jabba Desilijic Tiure",
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Time",
 		
 		"startIntroPart1": "Rejoice, wretched creatures. Your planet is now the property of the glorious Hutt Cartel.",
 		"startIntroPart2": "We represent our people. Their honor. Their power. We are the Hutt Council.",
@@ -1829,7 +1829,7 @@
 		"adjective": ["InterGalactic Banking Clan"],
 		"startBias": ["Tundra"],
 		"personality": "San Hill",
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Time",
 		
 		"startIntroPart1": "May there be prosperity and stability in all our lands! May our people be free and safe! Long live the banks!",
 		"declaringWar": "The safety of our clients investment is always our paramount concern.",
@@ -2225,7 +2225,7 @@
 		"adjective": ["Killik"],
 		"startBias": ["Grassland"],
 		"personality": "UnuThul",
-		"preferredVictoryType": "Cultured",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "The Killiks are tied to the history of the galaxy in a way we don't understand yet. They were living in cities before humans learned to build, and they were a civilization before the Sith were spawned. They were here when Centerpoint and the Maw were constructed-and they were driven from Alderaan by the beings who did it.",
 		"declaringWar": "We have heard about this new Force of yours, and we despair. You have grown blind to the dark side itself.",
